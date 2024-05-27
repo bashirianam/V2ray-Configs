@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.19.244.250:8880?security=none&type=ws&host=sinadfa.dugjup.workers.dev&path=%2FTELEGRAM%40AZARBAYJAB1T%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.244.250:8880
-vless://55341cc4-d38a-42d2-b5a7-61fcc77b56f1@172.64.32.154:2087?security=tls&sni=Tigoo.dignity-19.com&type=grpc&serviceName=Psp&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.32.154:2087
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.144.48:2096?security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.48:2096
-vless://e0eaf8db-96ab-4a90-810f-203e72e8ca73@103.184.44.104:80?security=none&type=ws&host=www.iran.ir.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&path=%2Frxv2ray-rxv2ray-rxv2ray-rxv2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.104:80
-vless://62f6b891-7988-4392-88c7-14134bb3ffa9@172.67.218.140:2083?security=tls&sni=yasin-godrat13.yasinsamieiuu.workers.dev&type=ws&host=yasin-godrat13.yasinsamieiuu.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.140:2083
-vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.67.170.93:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.93:443
 vless://9e5a5563-1351-4ad7-8146-c1803de6ca70@88.216.66.123:80?security=none&type=ws&host=ac.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇱🇹 LT-88.216.66.123:80
 vless://be920353-91a0-4d35-be2d-48dc2d4ed8dd@104.18.41.176:443?security=tls&sni=de1.v2vless.xyz&type=ws&host=de1.v2vless.xyz&path=@FRAv2ray,@FRAv2ray,@FRAv2ray/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.176:443
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@193.9.49.40:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.40:443
@@ -603,3 +597,9 @@ trojan://Ck0nkbbsur@104.18.37.248:2096?security=tls&sni=tls.redbullplus.xyz&type
 trojan://sharecentre@3.64.163.50:443?#🔒 TR-TCP-NA 🇩🇪 DE-3.64.163.50:443
 trojan://moist@118.163.128.81:13688?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=/#🔒 TR-WS-TLS 🇹🇼 TW-118.163.128.81:13688
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@172.207.174.144:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.174.144:443
+trojan://auto@104.21.69.44:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2087
+trojan://telegram-id-directvpn@15.222.48.23:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.222.48.23:22222
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.1:443
+trojan://auto@172.66.44.131:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.131:443
+trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?sni=grpcfr.arminhadadi.site&type=grpc&serviceName=grpc&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.51.242:2087
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@112.26.33.81:12051?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-112.26.33.81:12051
