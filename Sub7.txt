@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9cc8a2cb-3d1c-4d0c-bf50-a727d38a371b@172.67.142.10:2087?security=tls&sni=turkey-mci-hhh.jsfui232.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.142.10:2087
+vless://d75d4e79-c6d8-4a83-9d1e-fc23e7444b7f@104.18.13.149:2095?security=none&type=ws&host=almanv2raygmsix6.6.6.6.ir.com.site.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8%E6%96%AF.retete.fun.&path=%2FgermaniV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.13.149:2095
 vless://476058ef-b67a-4664-aab4-e10268ee3b71@104.17.63.18:443?security=tls&sni=fALcUnaRgO.3086bDEe98.WOrKErs.DEV&type=ws&host=faLcUnArGO.3086Bdee98.WOrKeRs.deV&path=%2F594IUhlREsfEUExK%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.63.18:443
 vless://25abd3d3-e76e-46bc-8ae0-fc096f116645@104.21.25.109:443?security=tls&sni=pt1-vless.sshmax.xyz&type=ws&host=pt1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.109:443
 vless://4c7abb73-f56f-488c-8a6a-344d5f60d4a6@104.21.82.17:443?security=tls&sni=it1.v2vless.xyz&type=ws&host=it1.v2vless.xyz&path=%2FJoin-Telegram-Channel-@AstroVPN_official#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.17:443
@@ -601,5 +603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.105.49.234:443?security=tls&sni=
 vless://73f0da18-c165-4dd6-9a1c-d33f8d124186@104.18.203.232:2082?security=none&type=ws&host=列列男事的事列上赛男.novaball.LINK.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:2082
 vless://5556a3da-77a5-4bbf-a335-55d2e7ddd262@95.164.46.235:2003?security=tls&sni=it-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇹 IT-95.164.46.235:2003
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@104.16.60.8:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=/p%3D19&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.60.8:2053
-vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@194.53.53.12:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇷🇺 RU-194.53.53.12:443
-vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@45.142.120.5:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.5:2053

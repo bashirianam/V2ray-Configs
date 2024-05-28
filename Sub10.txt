@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://67ac2966-c633-4fbe-92dd-8c666881c6de@198.41.196.161:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.196.161:8080
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.154.92:443?security=tls&sni=KWOdphURST8jSJGgLs4.goteli.com&type=ws&host=KWOdphURST8jSJGgLs4.goteli.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.154.92:443
 vless://a348e872-c86d-4edc-abc1-d533dc7ef2e7@204.93.210.23:80?security=none&type=ws&host=UK_V2ray.ElmahStyle.ir&path=%2FV2ray.re%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-204.93.210.23:80
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.219.117.198:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.219.117.198:8443
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.22.38.37:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.38.37:443
@@ -601,5 +603,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@193.122.116.52:30864?security=tls&s
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.64.102.66:8080?security=none&sni=king1980us.50fo8itj.workers.dev&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.102.66:8080
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:47580?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.9.165.253:47580
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.180.51:2083?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.180.51:2083
-vless://10638abe-7adc-4cdb-f3aa-6c41813de2a9@172.67.174.162:2053?security=tls&sni=venosvpn-mci.bukhjabaji.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.174.162:2053
-vless://2f8c5e4a-ccb2-4da8-bbfc-ab5d1e31f2df@172.67.191.234:443?security=tls&sni=fR1-vlESs.SSHmax.XYz&type=ws&host=fR1-vlESs.SSHmax.XYz&path=%2Fvless&fp=random&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.191.234:443
