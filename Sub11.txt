@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3536ce67-8df1-445f-b9c2-66e55873fc88@[::ffff:6819:735]:443?security=tls&sni=denew1.atgolden.monster&type=grpc&serviceName=Hamid&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:6819:735]:443
 vless://5556a3da-77a5-4bbf-a335-55d2e7ddd262@95.164.46.235:2003?security=tls&sni=it-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇹 IT-95.164.46.235:2003
 vless://4fd3237d-fe27-4161-a81e-fcd88deef26a@104.21.94.85:2086?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.94.85:2086
 vless://a3642b74-e138-434b-dbd0-90979ff2755e@167.71.209.134:26278?security=none&type=ws&host=store.steampowered.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-167.71.209.134:26278
@@ -603,3 +602,4 @@ trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.de
 trojan://NISHIKUITAN222@8.219.144.168:443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.144.168:443
 trojan://tIErrUuX7j@173.245.58.96:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-173.245.58.96:2053
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.6:443
+trojan://36360cc3-957a-4597-9abf-f73f29641ee3@104.18.202.232:443?security=tls&sni=rand.gcorecloud.info&type=grpc&serviceName=0uXZLEZPdjyKouXtRbzQXkBQQ&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:443
