@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.143.121:443?security=tls&sni=Bia-paIn-bachE.pAgeS.dev&type=ws&host=bia-PaiN-bACHe.PAges.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.143.121:443
-vless://f451c7bd-83e4-44a9-8c5a-809ca9df12b2@162.159.17.160:8880?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.17.160:8880
-vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@172.67.143.102:80?security=none&type=ws&host=worker-super-cake-c026.gogoligogoli26.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.143.102:80
-vless://cdd64fef-92f7-4b0e-adb5-45268345a016@190.93.247.155:2096?security=tls&sni=Cloud.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2096
 vless://fc7da095-277f-4f88-8904-a981b76b18ce@172.67.129.247:8080?security=none&type=ws&host=maz.像鸟一样自由.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.129.247:8080
 vless://d5dd9a8c-dad7-4aeb-8cf7-f2812a0f275a@104.18.202.232:8443?security=tls&sni=all2.savagev2ray.site&type=grpc&serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:8443
 vless://ca55bbf2-0c13-4b63-9dcd-047c38551750@104.21.75.237:2087?security=tls&sni=erfan.erfan90.oNflaShdriVe.app.&type=grpc&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.75.237:2087
@@ -603,3 +599,7 @@ vless://5480fd11-f544-412f-b01c-f43b0ac0785a@104.24.246.154:2053?security=tls&sn
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2087?security=tls&sni=sisand.waztow.WoRkeRs.DEv&type=ws&host=sisand.waztow.WoRkeRs.DEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:2087
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@154.83.2.77:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.77:443
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.17.168.130:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.168.130:2053
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.161.104:8443?security=tls&sni=edgood.king361.cf&type=ws&host=edgood.king361.cf#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:8443
+vless://9f0d517d-45d5-5596-b235-7dc981821997@104.21.72.173:2083?security=tls&sni=esetsecuritylicense.mrgimsy.WORKErs.dEV&type=ws&host=esetsecuritylicense.mrgimsy.WORKErs.dEV&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.173:2083
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.116.168:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.116.168:443
+vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@45.131.4.9:2095?type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.houselife.ir&path=%2F#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.9:2095
