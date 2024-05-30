@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjk2IDEuOU1CL3MiLCJhZGQiOiIyMTcuMTYwLjQ1LjMxIiwicG9ydCI6Ijg4ODAiLCJpZCI6IjRlMTg2Njc4LWZjY2EtNDMyNS1lNGJjLWIyOTE2YmRmNjcwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNjk2In0=
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.25.136:80#%E6%9C%AA%E7%9F%A5697
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVkhrRzZKN0ZDTHpPY3p1Y1I0SGFW@85.192.63.21:10385#%E6%9C%AA%E7%9F%A5698
 ss://NTcwZTgxNDktNTI3MS00MWNiLTg0MjItMzYwMzk5MjZhMjNlOg==@104.18.26.94:443#%E6%9C%AA%E7%9F%A5699
@@ -603,3 +602,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsQnBFVHY4RW9qSTl0QnlqQzNvQXJm@195.2.76.71:60
 trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=/6b777a91&host=jobscareerforlawyers.com#%E6%9C%AA%E7%9F%A51109
 trojan://telegram-id-privatevpns@54.246.160.166:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A51110%203.5MB%2Fs
 trojan://auto@172.67.2.238:2083?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A51111
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%E6%9C%AA%E7%9F%A51112
