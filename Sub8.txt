@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f47fb03f-7f15-41e0-bd7e-2371dc710e32@188.114.96.183:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.183:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.150.58.86:57621?security=tls&sni=zdy222.kpcloud.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-129.150.58.86:57621
-vless://bddf481c-ea09-469f-a1b0-a3c8e963fa6e@162.159.133.234:443?security=tls&sni=green.aria0mani0shop.sbs&type=ws&host=green.aria0mani0shop.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.234:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.47.88:8443?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.88:8443
 vless://2e3339b8-e4d2-4cbc-8fa7-347ddd72e0a4@34.193.97.35:443?security=tls&sni=cp1.popprime.shop&type=ws&host=server100.popprime.shop&path=%2Fn3&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-34.193.97.35:443
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2096?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.136.208:2096
@@ -603,3 +600,6 @@ vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.64.202.2:80?type=ws&path=/graph
 vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?security=tls&sni=forward333.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.188:2096
 vless://a61ef647-36c6-40c1-8fff-a3a65e473c7a@172.67.187.122:2096?security=tls&sni=p30download.ir-notting-hill.com&type=ws&host=proxy.ir-notting-hill.com&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.122:2096
 vless://d4e4f972-15fb-4748-85ef-f5c77438ee91@162.159.137.232:2096?security=tls&sni=poy-uk.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.137.232:2096
+vless://27296b86-e52d-4293-8814-20f041c291a1@172.67.169.190:8443?security=tls&sni=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&type=ws&host=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.169.190:8443
+vless://790adf74-4e4d-4ae2-9fc4-121b95f77297@172.67.214.179:2053?security=tls&sni=gr.boskot.com&type=grpc&serviceName=vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.179:2053
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.187:443?security=tls&sni=zdy306.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.187:443
