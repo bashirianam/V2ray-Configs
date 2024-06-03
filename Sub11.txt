@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.2:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.2:443
-vless://8d13ad35-deda-455d-92d7-df2336762dd0@185.146.173.146:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=%2F#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.146:8080
-vless://6b6fb221-feb6-4bd2-b711-f13a9775b877@104.21.28.188:443?security=tls&sni=SH2.sKyCLuB.cOm.Tr&type=ws&host=SH.sKyCLuB.cOm.Tr&path=%2FRainBow-Six-Siege-Super-Trash-Game%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.188:443
 vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@5.10.244.228:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇳🇱 NL-5.10.244.228:80
 vless://090ac18d-09db-4abe-b525-52d361da0e1b@104.17.98.95:8443?security=tls&sni=contact.my-contorol.com&type=grpc&serviceName=azaronline.com&fp=safari#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.98.95:8443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.115.72:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.115.72:443
@@ -603,3 +600,6 @@ vless://67e4c75e-fea0-400c-8da2-c6e8e779771a@104.18.13.149:8443?security=tls&sni
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.53.110:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.53.110:8443
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.146.69:443?security=tls&sni=folani.iiipok.WORkerS.DEV&type=ws&host=folani.iiipok.WORkerS.DEV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.146.69:443
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.78.63.183:80?security=none&type=ws&path=users%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-5.78.63.183:80
+vless://5bad0d35-6fab-4044-d161-6d7633d639ae@18.160.41.70:443?security=tls&sni=app3-noizji4r.b4a.run&type=ws&path=/vless1#🔒 VL-WS-TLS 🇺🇸 US-18.160.41.70:443
+vless://62c58634-d097-4a57-b232-450d8bdd5918@104.21.43.125:2096?security=tls&sni=bomb.epsia.cfd&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.43.125:2096
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.133:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.133:2087

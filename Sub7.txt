@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c0ac9d51-2540-487f-a4a6-26737c979558@162.159.135.232:2052?security=none&type=httpupgrade&host=jD.neT.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.SaMaN.Monster.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-162.159.135.232:2052
-vless://d38554b2-da9d-47ed-adce-f76395a36eda@185.146.173.196:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.mralpha-vpn.COM.&path=%2FTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.196:8880
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.157.120:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.157.120:443
 vless://effb1829-c983-4772-8df4-2e1b0c83d969@172.66.44.172:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.172:80
 vless://3927c752-2778-4d17-8730-8ea06d6c2ea9@2.189.59.4:443?security=tls&sni=mci.unlimiteddev-vpn.Com.&type=grpc&serviceName=Channel:@UnlimitedDev&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇮🇷 IR-2.189.59.4:443
 vless://367bdec4-8f79-4d2e-a1db-f97ef265f2af@104.18.14.19:2096?security=tls&sni=dal.zedmodeon-zedmodeon-zedmodeon.shop&type=grpc&serviceName=%40ZEDMODEON+%40ZEDMODEON+%40ZEDMODEON+%40ZEDMODEON+%40ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.14.19:2096
@@ -603,3 +600,6 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.22.19:443?security=tls&sni=b
 vless://f57d8714-2331-4287-97a6-eb823ae77ffc@66.235.200.107:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.107:8443
 vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇨🇦 CA-148.113.175.147:80
 vless://5a4cc95f-8fff-4178-a7f7-3c1d5498154b@172.67.178.2:2087?security=tls&sni=selinc---bia---to---chanel---selinc---selinc---selinc.sytbqj.workers.dev&type=ws&host=selinc---bia---to---chanel---selinc---selinc---selinc.sytbqj.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.2:2087
+vless://23ca8a29-5605-4dbe-9be3-137772c16aec@104.16.67.38:2086?security=none&type=ws&host=a1.virankade.site&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.67.38:2086
+vless://64f38424-c7a6-4b4a-bc0e-2ee4b3f1291e@193.242.96.62:443?security=tls&sni=speedtest.gcore.com&type=ws&host=accelerattemanamnmyss.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-193.242.96.62:443
+vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@95.85.95.85:80?security=none&type=ws&host=pronkmicevpn.com&path=/bb#🔒 VL-WS-NONE 🇱🇺 LU-95.85.95.85:80
