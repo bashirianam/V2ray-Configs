@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
 trojan://UtO9m5wsDz@54.169.171.52:49465?security=none&type=ws&host=m.instagram.com&path=%2F#🔒 TR-WS-NONE 🇸🇬 SG-54.169.171.52:49465
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12069?sni=china4.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12069
 trojan://yGcJzk5XRZ@54.169.171.52:48357?security=none&type=ws&host=m.whatsapp.com&path=%2F#🔒 TR-WS-NONE 🇸🇬 SG-54.169.171.52:48357
@@ -602,4 +603,3 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.235:6679#🔒 SS-TCP-NA 🇺
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.70.186:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.70.186:80
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.207:5000#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.207:5000
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.162.200.181:8882#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:8882
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#🔒 SS-TCP-NA 🇳🇴 NO-185.90.61.153:989

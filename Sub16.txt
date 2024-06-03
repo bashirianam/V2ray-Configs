@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#🔒 SS-TCP-NA 🇳🇴 NO-185.90.61.153:989
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8119
 ss://MWQxYTcxOTMtNjFhOS00ZmMxLTk3NzgtZGQ1MTdjZjlmOTE5Og==@172.67.136.208:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.136.208:2096
 ss://ZWFkNmI3NGItYzE1Ni01YjJkLThmOWEtOWZjMWE4M2E1MzFlOg==@172.67.205.175:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.205.175:2083
@@ -602,4 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dE4ySllZZUVRc2VzLW1vekpUOEJB@77.105.146.212
 ss://Y2ZmYjZlYmEtYTMzZS00NjlmLTliZTAtYjY4Y2ZlYzAxOGU0Og==@104.18.12.130:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.12.130:8880
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7307#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:7307
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZTmV3bHB5S3FqZE55T0lveWhQdzhr@51.103.174.155:7660#🔒 SS-TCP-NA 🇨🇭 CH-51.103.174.155:7660
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.183:5500#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.183:5500
