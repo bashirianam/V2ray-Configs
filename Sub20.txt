@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.43:8119#US219%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.31:445#US220%201.7MB%2Fs
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@179.27.200.28:989#%E6%9C%AA%E7%9F%A5445%201.0MB%2Fs
 trojan://tIErrUuX7j@217.196.101.178:2053?security=tls&type=grpc&sni=vr.v2ray962.filegear-sg.me#%E6%9C%AA%E7%9F%A5446
@@ -603,3 +602,4 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.83:6679#US390%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#US391%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.87:7306#US392%201.9MB%2Fs
 trojan://E0002134H@104.21.43.145:2096?sni=6504e90a.xpxroject.pages.dev#%E6%9C%AA%E7%9F%A5834
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QjFFd01PNzRqdjJaZ011ekJuQUlL@188.244.117.233:26615#%E6%9C%AA%E7%9F%A5835
