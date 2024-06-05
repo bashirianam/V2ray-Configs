@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://561bc9ae-9d67-4a67-cd72-e3d3f80dbed3@172.67.214.110:443?security=tls&sni=rammstein.tagnovolta.workers.dev&type=ws&host=rammstein.tagnovolta.workers.dev&path=/downloader/59316&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.110:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.111:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.111:443
+vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.45.42:8443?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.42:8443
+vless://c54dd620-fa5f-46de-82c2-9d1492ee74e4@103.98.215.248:443?security=tls&flow=xtls-rprx-vision&sni=tor2.jarviskit.com&type=tcp#🔒 VL-TCP-TLS 🇨🇦 CA-103.98.215.248:443
 vless://f7d2e53e-0728-49b0-89f7-ad730ee0cc49@172.67.190.251:443?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.251:443
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@162.159.242.203:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.242.203:8080
 vless://32a4737f-8b3f-40a4-a039-3a021d752069@172.67.170.33:2087?security=tls&sni=free4.riflvpn.tech&type=grpc&serviceName=f&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.170.33:2087
@@ -599,7 +603,3 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.104.11:2087?security=tls&sni
 vless://f6c960f3-dc81-45ca-9891-4138f78d9125@172.67.190.173:443?security=tls&sni=FalcuNaRgO.e9744be7d6.woRKeRs.DEv&type=ws&host=FalCUnaRGO.E9744be7D6.woRKERs.Dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.173:443
 vless://9f70a4c0-f727-47fb-ba7d-d604dba9669c@172.67.152.111:443?security=tls&sni=worker-little-leaf-7f8e.foxici5037.workers.Dev&type=ws&host=worker-little-leaf-7f8e.foxici5037.workers.Dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.152.111:443
 vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@172.67.147.10:2096?security=tls&sni=esetsecuritylicense.shsxucu.woRkeRs.DeV&type=ws&host=esetsecuritylicense.shsxucu.woRkeRs.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.147.10:2096
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.45.42:2083?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.42:2083
-vless://3286a0e7-72b3-4def-8327-8409d795585f@188.114.96.1:443?security=tls&sni=v2vus2.rayvenstorm.com&type=ws&path=%2Fzz&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.1:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2053?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2053
-vless://fea2c640-eda9-4f4b-b00a-fb61b9370d4b@104.21.58.195:2083?security=tls&sni=llgr.shoponetop.com&type=grpc&serviceName=xyz&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.58.195:2083
