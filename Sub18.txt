@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.134.9:6379#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:6379
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.29:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.29:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZek15TXpVMg==@95.164.35.90:8388#🔒 SS-TCP-NA 🇵🇱 PL-95.164.35.90:8388
+ss://NjcwOTQ4NzQtODljNS00ZDMwLThlOTgtYTk0YWVkOGM5YmMxOg==@104.25.75.91:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.75.91:2096
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8882
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8008
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.110.240:443#🔒 SS-TCP-NA 🇫🇷 FR-146.59.110.240:443
+ss://YTYxZmM4Y2ItMDAxMi00YzRiLWFhNWUtZDFjNjIzYWU4MDkyOg==@104.18.192.65:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.192.65:8880
 ss://YjBlNmEyYzktZTY2Ny00ZTQyLTljYjMtNzdkN2RiM2U3MzZiOg==@172.67.193.39:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.193.39:443
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.83:8080#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:8080
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.30.198:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.30.198:80
@@ -595,11 +603,3 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2376#US41%201.9MB%2Fs
 trojan://qjIPNzdyWS@172.67.204.84:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#%E6%9C%AA%E7%9F%A579
 trojan://4804f14b-c1f8-452d-a6ec-eff1490aeac9@104.16.60.8:443?security=tls&type=ws&sni=hdfy6d3.freelines.net&path=/Mf0ozB1t4KDNJYMWXN7kCm3lL&host=hdfy6d3.freelines.net#%E6%9C%AA%E7%9F%A580
 trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?type=ws&sni=sourceforge.net&path=/websocket&host=se1.trojanvpn.de#%E6%9C%AA%E7%9F%A581
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A582
-trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@5.135.235.163:443?security=tls&type=tcp&sni=upload.soft98.download#%E6%9C%AA%E7%9F%A583
-ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#US42%2029.5MB%2Fs
-ss://NTVhNDI1YmQtYjdlYS01OGY2LWE3MTktNjg0YjFmNmVmZmNjOg==@172.67.128.79:2096#%E6%9C%AA%E7%9F%A584
-trojan://389ea04b-99fb-47db-9252-80046b6bfe3e@199.59.243.225:443?#US43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NjZmdXBJa01aSDN4cVBvdXRJbW01@159.100.14.58:443#%E6%9C%AA%E7%9F%A585
-ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.25.255.254:2053#%E6%9C%AA%E7%9F%A586
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.89:8009#US44%201.8MB%2Fs
