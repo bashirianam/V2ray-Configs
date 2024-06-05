@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7ac33d15-d4a3-4cad-8c83-fe916f0eaf3c@139.144.5.214:443?security=tls&sni=in-full.privateip.net&type=ws&path=/VLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇳 IN-139.144.5.214:443
 vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@79.143.84.116:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-79.143.84.116:8080
 vless://d9c2a43c-8f02-4d79-a006-161ce108ace0@104.21.76.182:443?security=tls&sni=Digi.radiotehran.org&type=grpc&serviceName=@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.76.182:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.7.143:443?security=tls&sni=b458AB02.cAa-cHaNel-wORKER-PaGe-FrEE-JHuIhNuJhpHjKL-NIHgKjn.paGES.dev&type=ws&host=B458aB02.Caa-ChaNel-WOrker-PaGe-fREE-JHUihnUjhPHjKl-Nihgkjn.pAges.Dev&path=%2FRhSYOmWG5gplHTcl%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.7.143:443
@@ -603,3 +602,4 @@ vless://3fefc100-faed-43ad-b087-d47ddfe75121@162.159.48.84:443?security=tls&sni=
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.111.9:443
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇫🇷 FR-51.75.30.8:80
 vless://8ea40ba4-6fc6-444c-b408-cbbb78fbaecb@185.143.233.5:2052?security=none&type=ws&host=divar.ir&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:2052
+vless://b8f850de-6082-4498-a2ac-d7fae27c4d5c@[::ffff:6812:cbe8]:2086?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-[::ffff:6812:cbe8]:2086
