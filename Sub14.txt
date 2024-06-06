@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.18.62.6:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.62.6:80
-vless://73372633-6739-4d40-bac0-93a84fe5d89d@104.21.35.225:8880?security=none&type=ws&host=daily-configs.xn--ykqpu7pm2wzwbm5mpyner8e1ri.tech.&path=%2FTelegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.35.225:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.154.34.74:1935?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-43.154.34.74:1935
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.180:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.180:443
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@173.245.59.153:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.153:443
@@ -603,3 +601,5 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.218.162:8443?security=tls&sn
 vless://f8276ba9-be27-43bf-8b04-a948c984640d@185.146.173.237:2087?security=tls&sni=aa-vpnwedbaz-tls.sibanimage.ir.&type=grpc&serviceName=@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbaz&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.237:2087
 vless://477d2cef-56a3-44ec-a6a1-85050dda1cf6@185.146.173.237:8443?security=tls&sni=footlo.argha-v2pedia.monster&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.237:8443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.254.120:2096?security=tls&sni=v222.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-47.236.254.120:2096
+vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@104.20.19.168:2086?security=none&type=ws&host=mci.你有一个不光彩的问题.website.&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:2086
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.132:2096?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.132:2096

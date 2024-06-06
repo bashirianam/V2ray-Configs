@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://298e7088-4d04-41cf-8122-e907c35e7a43@172.67.191.253:443?security=tls&sni=ww.napovafoodka.com.&type=grpc&serviceName=%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN%40v2rayN_OPENAVPN%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.253:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.111:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.111:443
 vless://9b134d67-ce54-4b21-9166-33b5586fb1ae@185.234.64.35:443?security=tls&sni=Join-Telegram-FRAv2ray.fohapo2489.workers.dev&type=ws&host=host&path=/ws&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-185.234.64.35:443
 vless://8436d06d-8a2e-4b23-b743-de65b9c6c741@172.67.176.83:443?security=tls&sni=mahdiserver.xidit31510.workers.dev&type=ws&host=mahdiserver.xidit31510.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.176.83:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.115.243:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.115.243:8080
@@ -603,3 +601,5 @@ vless://815724d3-0d61-4761-be07-471441d42be5@104.22.32.78:80?security=none&type=
 vless://ac0050a2-f8bb-422f-abb3-06c5e3692a0f@104.21.73.91:2096?security=tls&sni=iisbv2rayli.666game.buzz&type=grpc&serviceName=@V2RayyNGvpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.73.91:2096
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@162.159.134.234:2053?security=tls&sni=guq22.OXnETwoRkS.LInk&type=ws&host=guq22.OXnETwoRkS.LInk&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.234:2053
 vless://0b750188-a0d7-4a71-9882-fcb42fbf4311@104.22.30.97:80?security=none&type=ws&host=arsha.%E5%B8%AD%E7%89%B9%E5%93%88%E6%96%AF%C2%B7%E7%BD%97%E4%BC%8A.Vash%E5%88%80%E9%94%8B%E7%9A%84%E8%BE%B9%E7%BC%98.dontcall%E5%88%AB%E7%A7%B0%E5%85%B6%E4%B8%BA%E7%A5%9E%E7%A7%98%E7%94%B5%E5%BD%B1.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.30.97:80
+vless://bd5c0a6e-9693-4044-9eac-4ebdad752904@185.146.173.122:80?security=none&type=ws&host=shgV2ray.NoBaRaNe.ORG.&path=/V2ray.motorcycles#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.122:80
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.130.66:443?security=tls&sni=pgskx.yyvoffi.info&type=ws&host=pgskx.yyvoffi.info&path=%2Fparadise&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.130.66:443
