@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d480372f-6596-4177-ae85-28af07adf1cb@104.21.37.97:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.97:2053
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.13:8443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.156:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.156:443
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.218.222.36:2096?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.222.36:2096
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.110.149:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.110.149:443
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@172.67.188.156:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.188.156:2052
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.18.250.25:443?security=tls&sni=xin005.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.25:443
@@ -603,3 +599,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.147:443?security=tls&sni=c
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@204.216.105.106:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇨🇦 CA-204.216.105.106:8443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.216.100:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-35.181.216.100:22222
 vless://bfa993e8-b8dd-4ad9-9a04-a73ed5a71f70@108.162.194.131:443?security=tls&sni=mdi5lp.galeknewnvpmj.top&type=ws&path=%2Fwss#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.194.131:443
+vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@172.67.210.56:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.210.56:2052
+vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@104.27.193.64:443?security=tls&sni=hdfy6c3.foriran.trade&type=ws&host=hdfy6c3.foriran.trade&path=%2FBc5xLs413y7DNJYMWXN7kCm3lL#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.193.64:443
+vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.51.3:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.51.3:2087
+vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.10.1:2053?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.10.1:2053
