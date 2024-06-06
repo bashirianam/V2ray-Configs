@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://11e28a1d-bb26-4944-b8bf-5fc98a364abc@104.21.34.216:443?security=tls&sni=telegram-vpnhttpinjectorfree-4.naylee705.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-4.naylee705.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.216:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.220.236:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.236:443
 vless://43e00e4c-2316-4dc9-8262-cef31886dc56@104.16.68.38:2083?security=tls&sni=vless-sub.n7p8ri7j.workers.dev&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Fmarly.toptechnonews.com%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.38:2083
 vless://ffc9733d-8908-4bdb-b904-21fadc2511e7@198.41.221.63:2095?security=none&type=ws&host=Coc.unique69.com.&path=/HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.63:2095
@@ -602,4 +603,3 @@ vless://4f15d52a-36a0-47b9-96c2-396a098d1634@104.21.42.84:2083?security=tls&sni=
 vless://62c58634-d097-4a57-b232-450d8bdd5918@172.67.179.133:2096?security=tls&sni=bomb.epsia.cfd&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.179.133:2096
 vless://7b798c2f-7f0f-48e8-d713-743c4b93cde3@104.31.16.164:80?security=none&sni=snapp.ir.iran.ir.bank-maskan.ir.isna.ir.nobat.ir.namava.ir.iauh.ac.ir.hamshahrionline.ir.emalls.ir.snappfood.ir.irna.ir.sid.ir.namava.ir.nobat.ir.blog.ir.khamenei.ir.bki.ir.iranjib.ir.avval.ir.mche.or.ir.araku.ac.ir.疯狂的莫迪17.shop.&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.164:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.73.147:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.147:443
-vless://a04be4ef-1797-4ca9-a549-4385ce42494c@185.146.173.107:443?security=tls&sni=vls4de.nimaxmusic.ir&type=ws&path=%2Fvls4dews#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.107:443
