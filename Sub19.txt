@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://moist@47.243.67.28:2083?type=ws&sni=trojan.freenods.sbs&host=trojan.freenods.sbs#HK
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.29:443#US5%201.8MB%2Fs
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:3306#US6%201.8MB%2Fs
 ss://NTFiYWVkYTgtMTI4OC00NThhLWI1YWUtYjhiMDgwYjkzN2I2Og==@104.27.1.85:8880#%E6%9C%AA%E7%9F%A58
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@145.239.6.202:9101#%E6%9C%AA%E7%9F%A59%201.9MB%2Fs
@@ -603,3 +601,5 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.222:5004#US189%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.89:8119#US190%201.8MB%2Fs
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=/6b777a91&host=jobscareerforlawyers.com#%E6%9C%AA%E7%9F%A5400
 ss://MjVkMGVlMmQtNDE5MC01MmJlLWI4OTItNDU4MTFjNmJhMjEwOg==@104.18.202.232:2053#%E6%9C%AA%E7%9F%A5401
+trojan://huge123456@131.186.21.135:60954?security=tls&type=tcp&sni=h.iveze.com#%E6%9C%AA%E7%9F%A5402
+trojan://telegram-id-directvpn@51.20.28.241:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5403
