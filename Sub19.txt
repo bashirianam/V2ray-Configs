@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.29:5499#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.29:5499
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.19:8009#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.19:8009
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@103.172.116.79:9040#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9040
 ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@141.101.113.20:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-141.101.113.20:8080
 ss://MTA2OTk2MjItMWIyNS00OTljLWE0MjQtNThmOGY0ZGZiN2Y3Og==@104.17.246.203:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.246.203:2083
@@ -601,5 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@52.169.30.108:443#%E6%
 trojan://a9d4426f1c76c6b@104.21.69.44:2053?security=tls&type=grpc&sni=bestfollower.fandlaandpro.ir#%E6%9C%AA%E7%9F%A5324
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.51:5499#US178%201.6MB%2Fs
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8090#%E6%9C%AA%E7%9F%A5325%201.8MB%2Fs
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@216.246.15.225:30129#US179
-ss://OGEwNTJjNjUtYmRmNi00ODVhLWMxZDctY2IyYjIzZjE1ZGZhOg==@104.16.6.65:443#%E6%9C%AA%E7%9F%A5326
