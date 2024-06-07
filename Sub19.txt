@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaak5tT0dFMA==@146.19.106.89:8388#🔒 SS-TCP-NA 🇨🇦 CA-146.19.106.89:8388
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:5601#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:5601
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaa3luRlg1ZVNhRTBZdXNGOGpYZ3FR@77.91.123.173:18332#🔒 SS-TCP-NA 🇳🇱 NL-77.91.123.173:18332
-ss://NTFiYWVkYTgtMTI4OC00NThhLWI1YWUtYjhiMDgwYjkzN2I2Og==@104.27.0.241:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.27.0.241:8880
 ss://ZjdkMmU1M2UtMDcyOC00OWIwLTg5ZjctYWQ3MzBlZTBjYzQ5Og==@104.21.20.26:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.20.26:2083
 ss://YTM4NzNlYjktMGM1NC00NmM0LWFiYmYtYWU5Zjg4MGQzNjE5Og==@162.19.228.119:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.228.119:443
 ss://ZjdkMmU1M2UtMDcyOC00OWIwLTg5ZjctYWQ3MzBlZTBjYzQ5Og==@172.67.190.251:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.190.251:2083
@@ -603,3 +599,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzczIiwiYWRkIjoiMTI4LjE5OS4xNjEuMjMwIiwicG9y
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#%E6%9C%AA%E7%9F%A5374%206.2MB%2Fs
 ss://N2YxMTM5MjMtOTQyOS00OGI4LWQ1ZGQtYjI5MDZhNTgzZGZlOg==@172.67.163.103:443#%E6%9C%AA%E7%9F%A5375
 ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@103.172.116.79:9073#%E6%9C%AA%E7%9F%A5376%20491.0KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIUHNnNXByUW1UaFdCOGl4RlMycnhl@51.21.51.195:10901#%E6%9C%AA%E7%9F%A5377
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=6b777a91&host=jobscareerforlawyers.com#%E6%9C%AA%E7%9F%A5378
+ss://MjBkZWM2MDAtMWNlYS00MjdkLThjYTYtYWVjOGFiM2UyOWJlOg==@172.67.211.198:443#%E6%9C%AA%E7%9F%A5379
+trojan://telegram-id-directvpn@34.242.41.46:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5380%2017.3MB%2Fs
