@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b487fa42-4108-4124-a7fc-7b369d2afd84@104.18.203.232:443?encryption=none&security=tls&sni=PpAl03.LAYLA-DONnELLY-jR.WORKerS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PpAl03.laYlA-DonnelLy-JR.WORKerS.dev&path=%2F#[🇨🇦]t.me/ConfigsHub`
 vmess://eyJhZGQiOiIxMDQuMjAuMzkuMTg2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoidm1lc3MudGF4YXI3MTA1NC53b3JrZXJzLmRldiIsImlkIjoiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2l2aWRlb3Muc2JzL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoidm1lc3MudGF4YXI3MTA1NC53b3JrZXJzLmRldiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9`
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@73ff2b24.bpb-panel-b1q.pages.dev:443?encryption=none&security=tls&sni=73FF2B24.bpb-PaNEl-B1Q.PaGes.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=73fF2B24.bPB-PAnEl-B1Q.paGEs.dEv&path=%2FiXyGTa2hkso0v8lU%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub`
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.35.33:2053?encryption=none&security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#[🇨🇦]t.me/ConfigsHub`
@@ -602,4 +603,3 @@ vless://9ffbbd8c-83a8-49b3-80ae-6b8c906ad47e@185.146.173.122:2087?security=tls&s
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.242.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.242.236:443
 vless://8dd54a54-eb72-4b3a-970c-cb819dbdc3fb@185.59.218.3:443?path=/Telegram#🔒 VL-TCP-NA 🇷🇺 RU-185.59.218.3:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.85.184:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.85.184:443
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.111.9:443

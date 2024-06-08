@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f4b74cb4-4942-4a66-92e9-db0c21c27563@172.67.167.113:443?security=tls&sni=telegram-vpnhttpinjectorfree-8.iohmjza.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-8.iohmjza.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.167.113:443
 vless://38d10eab-39b9-4794-a814-b394a33da7c5@104.25.23.180:443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.23.180:443
 vless://9cc8a2cb-3d1c-4d0c-bf50-a727d38a371b@172.67.142.10:2087?security=tls&sni=turkey-mci-hhh.jsfui232.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.142.10:2087
 vless://30b3ecdf-64da-4b0e-b214-db5139b2ac59@172.67.136.197:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.197:2052
@@ -602,4 +603,3 @@ vless://fae30f40-620f-4622-8845-0007a2d5ad1e@104.18.219.101:2087?security=tls&sn
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.255.38:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.255.38:443
 vless://13732170-05c7-4bd6-acd6-9ed74b4d1c1b@162.159.153.2:2096?security=tls&sni=kanal-falcunargo-rmarat.falcunar.asso.eu.org&type=ws&host=kanal-falcunargo-rmarat.falcunar.asso.eu.org&path=/?ed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2096
 vless://1c6c6eb9-4559-466f-9297-f3d4c557b663@104.24.177.7:8880?security=none&type=ws&host=cdn.red1.napsternet.party&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.7:8880
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.156:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.156:443
