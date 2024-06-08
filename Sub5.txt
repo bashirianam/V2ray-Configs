@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.24.34:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.24.34:8880
-vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@185.59.218.48:443?security=tls&sni=join-telegraam-channel-disvpn.pages.dev&type=ws&host=join-telegraam-channel-disvpn.pages.dev&path=/server&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.48:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.15:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.15:443
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2087?security=tls&sni=sisand.waztow.WoRkeRs.DEv&type=ws&host=sisand.waztow.WoRkeRs.DEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:2087
 vless://f451c7bd-83e4-44a9-8c5a-809ca9df12b2@162.159.17.160:8880?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.17.160:8880
@@ -603,3 +601,5 @@ vless://eeb24630-bdf7-4af0-bb9e-e03a979128c4@104.19.87.116:2095?security=none&ty
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.85.119.23:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇷🇴 RO-45.85.119.23:443
 vless://aa81e188-a979-411e-a10b-08287646cc43@172.67.221.199:443?security=tls&sni=vl26.rnd.biz.id&type=ws&host=vl26.rnd.biz.id#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.199:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@155.248.196.123:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-155.248.196.123:443
+vless://eb3ad716-faf4-417e-85d2-b0504e3a7912@162.159.136.234:8443?security=tls&sni=discord.gg&type=grpc&serviceName=@u3erVpn&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:8443
+vless://01ab9337-f478-4765-9534-88f009f83ddb@8.222.164.209:2053?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.222.164.209:2053
