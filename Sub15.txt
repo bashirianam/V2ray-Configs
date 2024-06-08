@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@210.186.12.244:443?security=tls&sni=v222.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇲🇾 MY-210.186.12.244:443
+vless://9c59dd45-7128-c9df-4af0-e8d9506d2e70@185.215.228.46:11166?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.215.228.46:11166
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@50.114.11.19:443?security=tls&sni=xin111.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇨🇦 CA-50.114.11.19:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.132.199:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.132.199:443
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@147.78.140.121:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.121:443
@@ -601,5 +603,3 @@ trojan://moist@8.210.203.7:2087?sni=trojan.freenods.sbs&type=ws&host=trojan.free
 trojan://NISHIKUITAN222@172.67.75.172:443?security=tls&sni=t070.ylks.link&type=ws&host=t070.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.75.172:443
 trojan://share.mjj-home.com@45.154.214.159:443?sni=api.mjj-home.com#🔒 TR-TCP-NA 🇺🇸 US-45.154.214.159:443
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@43.248.119.220:46002?type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-43.248.119.220:46002
-trojan://ExPreSEToo582b993d16e522@172.67.197.65:8443?security=tls&sni=random.expreset479927393.workers.dev&type=ws&host=random.expreset479927393.workers.dev&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.197.65:8443
-trojan://auto@162.159.137.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:8443
