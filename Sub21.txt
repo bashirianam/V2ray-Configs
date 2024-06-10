@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.110.1.43:8009#US104%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.89:8119#US105%202.0MB%2Fs
 ss://Nzk5NzgwMjctZWYxNi00MTM3LWIxOGUtOTA1ZjhjMThmODQ1Og==@104.18.36.81:8080#%E6%9C%AA%E7%9F%A5238
 trojan://telegram-id-directvpn@54.154.236.98:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5239
@@ -602,4 +603,3 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@198.244.231.25:443#%E6%9C%AA%E7%9F%A56
 trojan://telegram-id-directvpn@3.132.57.185:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#US252
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjQ1IiwiYWRkIjoiMTczLjI0NS41OS44IiwicG9ydCI6IjQ0MyIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiNzdoMnF1aWV0LWRyZWFtLTVjMzQuZm9yYXRheTc0MS53b3JrZXJzLmRldiIsInBhdGgiOiIvZ2x3ZWlkZi5jZmQvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiNzdoMnF1aWV0LWRyZWFtLTVjMzQuZm9yYXRheTc0MS53b3JrZXJzLmRldiIsInRlc3RfbmFtZSI6IjY0NSJ9
 ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.25.255.254:2053#%E6%9C%AA%E7%9F%A5646
-trojan://share.mjj-home.com@45.154.214.159:443?sni=api.mjj-home.com#US253
