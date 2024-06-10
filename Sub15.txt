@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://07687cfe-1206-485d-96be-d9d0af7d11c4@172.67.20.220:2083?security=tls&sni=filterchichenanbekobametbegorzegeran.segaro.tech&type=ws&host=filterchichenanbekobametbegorzegeran.segaro.tech&path=Telegram---@TV_v2ray--@TV_v2ray--@TV_v2ray--@TV_v2ray--@TV_v2ray--@TV_v2ray--%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.220:2083
 vless://037ff316-9581-4ab2-a4ba-7ecc96ded9ed@104.16.4.103:2082?security=none&type=ws&host=au7od5s74q-germany18.datam-co.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.4.103:2082
 vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@104.24.176.7:443?security=tls&sni=hdfy6c1.freeairlaines.com&type=grpc&serviceName=Bc5xLs413y7FzoZoavn2kmJ&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.176.7:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.62.252:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.62.252:443
@@ -602,4 +603,3 @@ vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@172.67.216.175:443?security=tls&sni
 vless://b5484088-cefc-43a1-943f-a99706fc3c0c@190.93.247.247:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=%2FV2rayCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.247:2095
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.254.120:2083?security=tls&sni=kk222.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-47.236.254.120:2083
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.218.142.253:2053?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.142.253:2053
-vless://29d12cf7-2752-4b35-a3e9-25da290e1f78@91.107.252.81:80?security=none&type=ws&host=google.com&path=%2F%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray#🔒 VL-WS-NONE 🇩🇪 DE-91.107.252.81:80
