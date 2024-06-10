@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.18:8090#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:8090
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEM2prWkZ1SUN5TWVvQ2JtUXhqMUJB@212.64.214.36:8007#🔒 SS-TCP-NA 🇹🇷 TR-212.64.214.36:8007
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.86.135.225:8008#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8008
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.117:5001#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:5001
-ss://MWNhN2U0M2YtYTczNy00NjY3LTk0OGUtNjdjMjA1OWY4MmU5Og==@104.26.14.16:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.26.14.16:443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.28:3389
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.86.135.185:443#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.185:443
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8882
 ss://Y2ZmZWI1YzEtODFkZS00NmQ3LTg2MDYtM2FjN2M1MjBiODhjOg==@185.126.15.60:8097#🔒 SS-TCP-NA 🇮🇷 IR-185.126.15.60:8097
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3ZFBKSkF2WW5QTk1vNXlTcmhEWVNH@64.176.166.4:62557#🔒 SS-TCP-NA 🇮🇱 IL-64.176.166.4:62557
 ss://NDgwNGYxNGItYzFmOC00NTJkLWE2ZWMtZWZmMTQ5MGFlYWM5Og==@104.24.196.20:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.24.196.20:443
@@ -603,3 +595,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVXJENEZ6bER5ejBEUHV0VzIyTFBW@92.243.27.51:9
 trojan://3c91d857-2d40-39b9-81c0-f6adde8037ff@141.11.108.8:4583?sni=cuvip.doubledou.win#%E6%9C%AA%E7%9F%A5314
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.137.93:8119#US129%201.9MB%2Fs
 ss://MzMxNzNkNDgtZDYyMC0xMWVlLWFhYTgtMDA1MDU2MDNlNzBkOg==@104.26.10.137:443#%E6%9C%AA%E7%9F%A5315
+ss://MjMzYTdhNDMtMzM0MC00NGI3LWFiNzktMTRjMjlmYzAyZTQ3Og==@104.20.18.168:8880#%E6%9C%AA%E7%9F%A5316
+vmess://eyJ2IjoiMiIsInBzIjoiVVMxMzAiLCJhZGQiOiJucG1qcy5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiI2Yjg4MGIwNy1lOTUyLTRjMGItYjRhMy02YzlhYzRjZjlkM2YiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJoZGZ5MWMyLmZyZWVhaXJsYWluZXMuY29tIiwicGF0aCI6Ii9RdnR2UGREWFhJbFNkWk1xbnV4RyIsInRscyI6InRscyIsInNuaSI6ImhkZnkxYzIuZnJlZWFpcmxhaW5lcy5jb20iLCJ0ZXN0X25hbWUiOiJVUzEzMCJ9
+trojan://aafjq8KuSP@167.172.69.226:443?security=tls&type=ws&sni=m.zoom.us&path=/#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A5317
+trojan://qjIPNzdyWS@104.21.69.44:8080?security=none&type=ws&path=/new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel/new_proxy_channel?ed=2560&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#%E6%9C%AA%E7%9F%A5318
+ss://MDc1YTM2NWItYjBjNy00YmEzLWI1YTYtNTk3ODUwYzIyM2Y5Og==@104.16.3.35:8880#%E6%9C%AA%E7%9F%A5319
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.181:2375#%E6%9C%AA%E7%9F%A5320%202.0MB%2Fs
+ss://ZjAyMGE2Y2YtMGNlNy00N2YzLTg4YjMtZDg0MGRkOGE1NTdiOg==@104.21.94.125:80#%E6%9C%AA%E7%9F%A5321

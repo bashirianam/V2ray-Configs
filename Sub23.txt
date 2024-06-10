@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://NThkYmZiOTYtYWZhYy00MjUxLTkxODktMTM3ZTg4M2U2NWFiOg==@104.16.30.34:8880#%E6%9C%AA%E7%9F%A51454
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.225:3306#US625%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.9:9102#US626%201.9MB%2Fs
-trojan://NISHIKUITAN222@172.67.75.172:443?security=tls&type=ws&sni=t111.ylks.link&path=/&host=t111.ylks.link#%E6%9C%AA%E7%9F%A51455
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVaTRiaFp3RGxzMkxOOEh0UU9pbzFa@136.244.81.170:20888#%E6%9C%AA%E7%9F%A51456%2012.0MB%2Fs
-trojan://d2698cf9-c47e-455c-8384-12e642cbba15@167.68.5.183:443?type=ws&sni=6us3.pqjc.buzz&path=/pq/us3#US627
-trojan://NISHIKUITAN222@43.153.80.208:443?security=tls&type=ws&sni=t331.ylks.link&path=/&host=t331.ylks.link#US628
-ss://MWQxYTcxOTMtNjFhOS00ZmMxLTk3NzgtZGQ1MTdjZjlmOTE5Og==@172.67.136.208:2082#%E6%9C%AA%E7%9F%A51457
 trojan://auto@104.18.1.89:443?security=tls&type=ws&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&path=/?ed=2560&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev#%E6%9C%AA%E7%9F%A51458
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.208:8882#US629%201.9MB%2Fs
 trojan://telegram-id-privatevpns@3.64.0.193:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A51459%203.3MB%2Fs
