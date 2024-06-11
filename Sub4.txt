@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://bff84531-4c90-4fa7-acd9-8922fee57823@206.206.123.198:8443?security=reality&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇺🇸 US-206.206.123.198:8443
+vless://d8444b8d-ba6b-4e90-963b-389016a7e9b8@104.168.107.230:4342?security=reality&flow=xtls-rprx-vision&sni=www.who.int&type=tcp&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:4342
 vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33#🔒 VL-TCP-RLT 🇫🇷 FR-141.95.75.212:443
 vless://f25bd0d8-fd89-40b3-959a-d7fe4e32b166@104.168.107.230:4607?security=reality&flow=xtls-rprx-vision&sni=magicbus.ca&type=tcp&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:4607
 vless://b0753dbe-6187-4d7f-8931-4c0d1a975104@[::ffff:5fa4:243b]:2096?security=reality&flow=xtls-rprx-vision&sni=104.21.70.42&type=tcp&fp=chrome&pbk=Iqqixc1Fcq2knbl1IbuKOHuZn2QDQIgri2J1acmDuTw&sid=bbe1ba3d62f09e09#🔒 VL-TCP-RLT 🇦🇹 AT-[::ffff:5fa4:243b]:2096
@@ -601,5 +603,3 @@ vless://0a707c67-adf3-4f94-b681-d41d548e6a09@50.7.87.85:443?security=tls&flow=xt
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.14.132:2083?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.14.132:2083
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.210.245.224:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.210.245.224:2053
 vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.2.35:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.2.35:8880
-vless://31d2a276-467f-4806-87b4-6ceab14bdcea@104.21.78.254:2083?security=tls&sni=zafaran-shop-cloud02.cyberscaler.com&type=ws&host=zafaran-shop-cloud02.cyberscaler.com&path=%2Fonline-store-shoes%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.254:2083
-vless://c078b121-8bff-4ba5-82f2-9a2ac8b3aa75@104.21.28.130:2083?security=tls&sni=abcdefghijklmnopqrstuvwxyz.mobilesalarr.online&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.130:2083

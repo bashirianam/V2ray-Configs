@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://79978027-ef16-4137-b18e-905f8c18f845@172.67.64.152:8080?security=none&type=ws&host=cdnanycasteuorg.fjacz6xe.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.64.152:8080
+vless://02a99135-d557-4c65-b63b-4d8cf0d84e1a@104.21.89.90:443?security=tls&sni=m.mashti.link.&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&fp=chrome&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.89.90:443
 vless://965d0c88-a91d-4bef-950c-a59649bbfa14@104.18.96.186:8080?security=none&type=ws&host=Coc.unique69.com.&path=/HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.96.186:8080
 vless://fda14d7a-133e-4e32-acfb-62188fc91e32@104.21.72.249:443?security=tls&sni=bpb.feLix-gISlAsOn.WORkERs.dEv&type=ws&host=bPb.FElIx-GISLaSON.WoRKeRs.dev&path=/A_6KHU8Vu_P6XfjH?ed&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.249:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.251.97:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.251.97:443
@@ -601,5 +603,3 @@ vless://3575bdad-99d2-4742-a3ed-c7fc7bdaa60d@172.67.223.232:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.179.98:2083?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.98:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.70.191:2087?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.191:2087
 vless://02e75d78-58ad-4a73-afca-24b781d8fdf5@45.8.211.142:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇷🇺 RU-45.8.211.142:8443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.106.216:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.106.216:443
-vless://9a2d4e44-ed71-40bb-be53-89b73cf6f3cc@104.18.203.232:2052?security=none&type=ws&host=xn--018o.orerblog.filtv.blog.boredhot.cloudcccc.joinbede.sbs.&path=/Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:2052

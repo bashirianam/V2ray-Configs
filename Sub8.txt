@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.106.216:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.106.216:443
+vless://9a2d4e44-ed71-40bb-be53-89b73cf6f3cc@104.18.203.232:2052?security=none&type=ws&host=xn--018o.orerblog.filtv.blog.boredhot.cloudcccc.joinbede.sbs.&path=/Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO,Telegram,@TEHRANARGO#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:2052
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.4.237:2096?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.4.237:2096
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@172.67.70.92:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:2096
 vless://feed264d-a3dd-41e8-a081-dd5b54902700@104.22.1.87:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.1.87:2096
@@ -601,5 +603,3 @@ vless://9dd2a179-ef34-4607-852c-db8b067b8e93@162.159.135.233:8880?security=none&
 vless://f7382608-e151-4d90-ab75-9c411e24ed83@198.41.221.63:8080?security=none&type=ws&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.DAILYCONFIGS.vigilantecollection.com.&path=%2F---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.63:8080
 vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.15.85:8443?security=tls&sni=1.irancloudflare.cab&type=ws&host=1.irancloudflare.cab#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:8443
 vless://d42497eb-f317-4947-9930-32a707638d4a@172.64.108.106:80?security=none&type=ws&host=sacha.sachaii.%C3%BCzeildfj.fie4939.nursiii.shop&path=%2F%40Netmassk#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.108.106:80
-vless://9149c629-1b31-4699-a410-d4549670c1a5@162.159.133.234:2087?security=tls&sni=FreeV2rayng.SHHPROXY.monster&type=ws&host=FreeV2rayng.SHHPROXY.monster&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.234:2087
-vless://c2d391d5-9f1e-4721-bd25-b335d14caf07@185.146.173.20:8080?type=ws&host=DUwC0ik5lWCiueUniUDG.niGc-aR.com&path=%2Fbackup#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.20:8080
