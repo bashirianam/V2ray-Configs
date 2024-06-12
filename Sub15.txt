@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.116.128:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.116.128:80
+vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.116:443?security=tls&sni=zac1.striside.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.141.116:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.37.216:443?security=tls&sni=PPAl03.KESHAUn-RoDdeRIcK.workErS.DeV&type=ws&host=PpAL03.kEShauN-roDDEriCk.WORkers.dEv&path=%2Fck8NaoZerm0KDizR%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.216:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.61.88:443?security=tls&sni=698Aa4AA.Swz-UUz-316.PageS.Dev&type=ws&host=698aa4aA.SwZ-uuz-316.pagEs.deV&path=%2FFree_V2rng%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.61.88:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.30.171:443?security=tls&sni=kk010.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.30.171:443
@@ -601,5 +603,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.107.85:80?type=ws&host=kr1.1
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.19.43.166:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.43.166:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.1.120:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.1.120:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.222.228:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.222.228:80
-vless://a77a8e8f-2f09-428d-9b6a-d7116d98dcc6@185.146.173.112:443?security=tls&sni=zula-mtn.mci-mtn-mymci-zula-shatel.space&type=ws&host=zula-mtn.mci-mtn-mymci-zula-shatel.space&path=%2FNBCServices-Join-Telegram&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.112:443
-vless://eb3e4174-7bc8-4cc3-a5f9-372285fcb745@172.67.193.157:8080?security=none&type=ws&host=svm.zula.ir.gta.ir.zula.com.mast.com.rast.com.shoplfooioood.らわなさkarsovalomn.atkfood.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.157:8080

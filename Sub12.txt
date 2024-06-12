@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b652751c-680c-4afd-b93a-a983733fc21c@104.21.79.143:443?security=tls&sni=se1.v2vless.xyz&type=ws&host=se1.v2vless.xyz&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.143:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.219.87:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.219.87:80
 vless://fe73f065-661c-4ca2-835b-bd7ddbcda26e@190.93.244.113:443?security=tls&sni=furi-guri-allnet.poshakbany.ir&type=grpc&serviceName=%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023%2F%40v2rayng12023&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.211:443?security=tls&sni=zdy070.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.211:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.28.75:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.28.75:80
@@ -601,5 +603,3 @@ vless://1a0badbc-1566-40db-a8a8-4d3d8eca9059@65.109.6.144:8080?security=none&typ
 vless://cc63b584-be6e-42a7-a3ad-bce6b285b166@104.18.32.69:80?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirenew.fpsvpn.SHOP.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:80
 vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.64.199.158:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.199.158:80
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-nL.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV&path=%2F#🔒 VL-WS-TLS 🇮🇷 IR-188.121.118.55:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.219.227:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.219.227:80
-vless://25da296e-1d96-48ae-9867-4342796cd742@172.67.149.95:443?security=tls&sni=vless.5c2aa5bd248bc706255b0a9905f27611.workers.dev&type=ws&host=vless.5c2aa5bd248bc706255b0a9905f27611.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.149.95:443
