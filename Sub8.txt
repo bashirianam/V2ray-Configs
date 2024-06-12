@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.204.146:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.146:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.134.121:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.134.121:443
 vless://3a7e0e9a-a564-49b5-aea8-0853825c7cd1@172.67.73.98:443?security=tls&sni=CreEw.RibiWa9933.WoRkeRs.DEV&type=ws&host=CrEew.RiBIwa9933.wOrkerS.deV&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.98:443
 vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.24.34:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.24.34:8880
@@ -603,3 +602,4 @@ vless://9b69f8e7-b7f6-451a-940b-67cfa2dd64e1@45.159.216.18:2095?security=none&ty
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.210.34.188:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.210.34.188:8443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.150.143:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.150.143:80
 vless://84e59ad7-ca22-4093-98b3-8b59617a3129@[::ffff:6815:4f8f]:443?security=tls&sni=at2.v2vless.xyz&type=ws&host=at2.v2vless.xyz&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=safari#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:6815:4f8f]:443
+vless://69256407-66b7-45eb-ad2b-8e879407291f@66.235.200.1:80?security=none&type=ws&path=%2FTeleGram%40Free_V2rng%3Fed#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.1:80
