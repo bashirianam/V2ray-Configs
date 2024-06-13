@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.171.55:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.171.55:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.46.134:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.46.134:80
 vless://e7ed4a9f-c9fb-40e9-a6c8-b951e1cfb789@193.151.155.69:51760?security=none&type=tcp&host=varzesh3.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.155.69:51760
 vless://185784ef-6068-49ec-b4cf-56b4a73d62a7@104.25.254.90:2096?security=tls&sni=im.jomong.space&type=grpc&serviceName=%40NT_Safe&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.90:2096
@@ -602,4 +603,3 @@ vless://84ddd05a-0e2a-4b7e-a0d2-f214bff4243b@185.53.142.132:443?security=tls&sni
 vless://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@104.17.148.22:2086?security=none&type=ws&host=uusaa.列列男事的事列上赛男78.shop&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2086
 vless://206cbf43-c050-4be1-87d0-b0db774a244e@173.245.59.101:2053?security=tls&sni=FreeIran.DarkMood.cfd&type=grpc&serviceName=FreeIran.DarkMood.cfd&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.59.101:2053
 vless://42cd7fff-39c8-4efd-88b0-75df7c88e894@[::ffff:ac40:6f94]:443?security=tls&sni=de2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:ac40:6f94]:443
-vless://07687cfe-1206-485d-96be-d9d0af7d11c4@172.67.20.220:2083?security=tls&sni=filterchichenanbekobametbegorzegeran.segaro.tech&type=ws&host=filterchichenanbekobametbegorzegeran.segaro.tech&path=Telegram---@TV_v2ray--@TV_v2ray--@TV_v2ray--@TV_v2ray--@TV_v2ray--@TV_v2ray--%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.220:2083
