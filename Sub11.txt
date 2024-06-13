@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2b278414-fad7-51c9-a8df-11848fee1487@172.67.189.149:2096?security=tls&sni=esetsecuritylicense.rihej59344.wOrKerS.dev&type=ws&host=esetsecuritylicense.rihej59344.wOrKerS.dev&path=vless-ws%2F%3Fed%3D2048&fp=android&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.149:2096
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@154.194.12.137:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇮🇩 ID-154.194.12.137:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.27.207.92:443?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.207.92:443
 vless://d0cb0805-3db7-4eb2-8848-c70936ce935a@104.18.202.232:8443?security=tls&sni=FIn.Melov2ray.Shop&type=grpc&serviceName=@melov2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:8443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.174.55:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.174.55:443
@@ -601,5 +603,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.233:443?security=tls&sn
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@190.93.244.125:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.244.125:2082
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.123.250.209:2087?security=tls&sni=zdy300.kpcloud.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇰🇷 KR-193.123.250.209:2087
 vless://233a7a43-3340-44b7-ab79-14c29fc02e47@104.20.18.168:8880?type=ws&host=dr-venom.aminghasemidrvenom.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.18.168:8880
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.66.177:2053?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.66.177:2053
-vless://2e42a2ed-b169-4c75-a817-6ec26ce19eb5@78.39.51.182:53300?security=none&type=tcp&host=www.speedtest.net&path=/@iSpeedtopVPN&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.51.182:53300
