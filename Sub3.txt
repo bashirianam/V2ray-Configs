@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.16:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=jp222.ylks01.eu.org#👉🆔 @v2ray_configs_pool`
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.238:2053?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#👉🆔 @v2ray_configs_pool`
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.23:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=hk222.ylks.link#👉🆔 @v2ray_configs_pool`
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.95:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool`
@@ -603,3 +602,4 @@ vless://cbbc04dc-ab1a-4410-a30b-5d83982374d5@188.116.21.168:443?security=reality
 vless://4174db66-4688-410b-b847-90ee8e570831@104.168.107.230:6067?security=reality&flow=xtls-rprx-vision&sni=themeforest.net&type=tcp&fp=chrome&pbk=5JlDUnqfJV4tNLiIn1ctcPRaGVxGdNrjfF5QMD0lLFM&sid=7a922f4091d33d43#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:6067
 vless://b1c1da37-726b-4db1-8139-27a7497e3186@195.201.89.188:443?security=reality&sni=*.dnschecker.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=c452clIZOGrphH1pKZLlFFyN9bjhk2JxMemT2Df6C3w&sid=d276874c#🔒 VL-GRPC-RLT 🇩🇪 DE-195.201.89.188:443
 vless://6f9850ed-dcf3-4a9b-d2a8-a4d652e0dcca@49.13.20.56:443?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.20.56:443
+vless://884d5bbe-136b-4f2a-9018-daf4d15636a8@45.67.32.147:22441?security=reality&sni=jino.ru&type=http&path=/getout&fp=chrome&pbk=ka7Beu3x7VjM_UqCT07d98enNKfkEbwXqZtFlr40_Q0&sid=fff248e8#🔒 VL-HTTP-RLT 🇷🇺 RU-45.67.32.147:22441
