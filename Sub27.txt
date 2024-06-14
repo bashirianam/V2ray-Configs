@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.138:8080#%F0%9F%87%BA%F0%9F%87%B8US-45.158.171.138-0808
-vmess://ewogICAgImFkZCI6ICJmcjItZnVsbC5wcml2YXRlaXAubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZnIyLWZ1bGwucHJpdmF0ZWlwLm5ldCIsCiAgICAiaWQiOiAiNmQxZDc0YzMtYWZjNy00MjY5LTlmNzAtMjEwMTllM2NmODQxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL1JBQ0VWUE4iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi0xNzIuMjMyLjQ3LjIwMi0wMjMzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-trojan://ad2a3120-c281-4436-8aff-ae280273080b@141.94.115.231:443?security=tls&sni=fr-full.privateip.net#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.115.231-0116
-trojan://telegram-id-privatevpns@46.137.58.22:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-46.137.58.22-0132
 trojan://bef8a9e5-5a32-40a6-ae92-c174a6865c40@172.232.47.202:443?security=tls&sni=fr2-full.privateip.net#%F0%9F%87%AB%F0%9F%87%B7FR-172.232.47.202-0170
 trojan://telegram-id-privatevpns@34.250.1.55:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-34.250.1.55-0211
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#%F0%9F%87%A6%F0%9F%87%B9AT-185.180.12.81-0842
@@ -603,3 +599,7 @@ vless://687fbf36-e28e-4a73-bf4d-ac35dacdd985@104.168.107.230:6272?encryption=non
 vless://dba3624f-b843-421f-858e-391dbe51a8a0@104.168.107.230:6280?encryption=none&flow=xtls-rprx-vision&security=reality&sni=res.cloudinary.com&fp=chrome&pbk=nLDsqH0iqy2tsJS62RP-viiKwJoGAcCq5rGh6hKnGFU&sid=ba345106595e9c3c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-6280 | 82.72ms
 vless://686cd838-a7ef-43e0-8726-e0822f77273e@104.168.107.230:6286?encryption=none&flow=xtls-rprx-vision&security=reality&sni=prestashop.com&fp=chrome&pbk=nLDsqH0iqy2tsJS62RP-viiKwJoGAcCq5rGh6hKnGFU&sid=ba345106595e9c3c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-6286 | 73.22ms
 vless://de71566d-7493-4eb5-b78e-ddeca245ef6e@104.168.107.230:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=patreon.com&fp=chrome&pbk=nLDsqH0iqy2tsJS62RP-viiKwJoGAcCq5rGh6hKnGFU&sid=ba345106595e9c3c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-6443 | 73.25ms
+vless://a3d78ee8-b8d4-4aee-ba16-8cb9b6397f60@104.168.107.230:6481?encryption=none&flow=xtls-rprx-vision&security=reality&sni=researchgate.net&fp=chrome&pbk=nLDsqH0iqy2tsJS62RP-viiKwJoGAcCq5rGh6hKnGFU&sid=ba345106595e9c3c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-6481 | 72.71ms
+vless://538108d9-8675-428b-9b80-060379bdfc11@104.168.107.230:6722?encryption=none&flow=xtls-rprx-vision&security=reality&sni=js.hsforms.net&fp=chrome&pbk=nLDsqH0iqy2tsJS62RP-viiKwJoGAcCq5rGh6hKnGFU&sid=ba345106595e9c3c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-6722 | 82.43ms
+vless://f72f431e-ae4b-4ffc-b5bf-de6728d8e8d0@104.168.107.230:6794?encryption=none&flow=xtls-rprx-vision&security=reality&sni=paysitesreviews.net&fp=chrome&pbk=nLDsqH0iqy2tsJS62RP-viiKwJoGAcCq5rGh6hKnGFU&sid=ba345106595e9c3c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-6794 | 83.22ms
+vless://9a46ea85-011f-4feb-bdb6-553e9f0b2b0b@104.168.107.230:6855?encryption=none&flow=xtls-rprx-vision&security=reality&sni=squadhelp.com&fp=chrome&pbk=nLDsqH0iqy2tsJS62RP-viiKwJoGAcCq5rGh6hKnGFU&sid=ba345106595e9c3c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-6855 | 72.65ms
