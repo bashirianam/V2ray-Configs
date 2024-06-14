@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.145.72:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.145.72:80
-vless://5dc23bba-0e31-4016-895f-517ce4b7ccc0@104.16.68.38:8443?security=tls&sni=vless-sub.n7p8ri7j.workers.dev&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Fglassiest.toptechnonews.com%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.38:8443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.209.127:2087?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.209.127:2087
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@45.94.169.134:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇺🇦 UA-45.94.169.134:2053
 vless://0c14db88-0343-4049-9779-9c2d9287f9e0@185.146.173.23:8880?security=none&type=ws&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.23:8880
 vless://b05d3ec4-6892-438e-b1a3-79fc8b635840@162.159.128.233:80?security=none&type=ws&host=abi.らわなさ.tech.&path=/ZEDMDODON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:80
@@ -603,3 +600,6 @@ vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.126.175:8880?security=none&t
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.141:443
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2052?security=none&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.208:2052
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.15.132:2087?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.15.132:2087
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@61.247.83.116:39308?security=tls&sni=v033.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-61.247.83.116:39308
+vless://e971e939-c844-4209-8720-e93db30210e3@104.18.200.220:443?security=tls&sni=tara2.striside.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.200.220:443
+vless://5820fa47-3140-45f8-cdf0-d3e71cfe8cc5@104.24.191.39:2083?security=tls&sni=dev-cloud-srv01.cyberscaler.com&type=ws&host=dev-cloud-srv01.cyberscaler.com&path=/online-store-shoes/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.191.39:2083
