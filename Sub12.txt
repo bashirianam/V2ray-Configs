@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.179:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.179:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.64.117:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.64.117:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.207.7:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.207.7:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.67.207:443?security=tls&sni=yRE2-JuD7-nn-72-OUEhgA6-uEBAfx-23Kl.paGEs.dEV&type=ws&host=yRE2-jUd7-nN-72-ouehga6-uebAfX-23kl.PAGES.deV&path=%2Fxeawt3rAk8RWMYhm%2FdWFlMS5veG5ldHdvcmtzLmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.207:443
 vless://7f55b425-a623-439b-bbd5-0b1778162054@104.26.15.148:80?security=none&type=ws&host=Fre1V2rayGod.xn--hssjg9ekdj8f1f.site.&path=%2F%40V2ray_God+%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.148:80
@@ -603,3 +601,5 @@ vless://2854626e-86e5-4d30-8b00-03cd082aeee0@104.21.12.150:8080?security=none&sn
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&type=ws&host=xswa.kevani8800.workers.dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.54.150:80
 vless://f0efdd4c-893c-4cfe-8720-3e6c462f043d@152.42.208.82:10557?security=none&type=ws&host=m.whatsapp.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-152.42.208.82:10557
 vless://bb3bb4d7-be67-42c0-fbe3-4895387e4f74@104.16.61.8:2083?security=tls&sni=mhsngrty1.iraniancpi.uk&type=ws&host=mhsngrty1.iraniancpi.uk&path=%2Fws&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:2083
+vless://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.29.75:443
+vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@162.159.135.234:2053?security=tls&sni=guq22.OXnETwoRkS.LInk&type=ws&host=guq22.OXnETwoRkS.LInk&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.234:2053
