@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.96.18:2053?security=tls&sni=edgood.king361.cf&type=ws&host=edgood.king361.cf&path=Path%2FTelegram..proxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.18:2053
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.23.126:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.23.126:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.181.213:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.181.213:80
 vless://d863d446-d17b-4105-b372-dcc53581fb3f@185.83.183.155:42147?security=none&type=tcp&host=amirzaplus.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.83.183.155:42147
@@ -602,4 +603,3 @@ trojan://9e1be001-0c89-4be0-888a-7648967e8df9@172.233.245.20:443?#🔒 TR-TCP-NA
 trojan://NISHIKUITAN222@8.222.183.242:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.222.183.242:8443
 trojan://telegram-id-privatevpns@15.237.238.148:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.238.148:22222
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.22.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.22.19:443
-trojan://98ea189e-7b78-3e49-baa8-5942e9b68b17@91.149.237.179:19224?security=tls&sni=eplcgame.com&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-91.149.237.179:19224

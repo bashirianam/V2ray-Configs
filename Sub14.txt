@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://39ae6907-2410-4199-8a25-dae66323f4df@89.221.224.166:443?security=tls&sni=sourceforge.net&type=grpc&serviceName=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇮🇸 IS-89.221.224.166:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.171.19:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.171.19:80
 vless://86ba8b32-71a7-589c-b728-991c7c726d60@104.19.170.20:2083?security=tls&sni=esetsecuritylicense.jdnooo.woRkeRs.DeV&type=ws&host=esetsecuritylicense.jdnooo.woRkeRs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.170.20:2083
 vless://158a2a18-ba82-4208-af52-3bf650c94036@190.93.244.120:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.120:2095
@@ -602,4 +603,3 @@ vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.53.146:8080?security=none&ty
 vless://40d3fdd7-e534-4762-a125-359484e522ef@172.67.164.241:443?security=tls&sni=Ppal03.mAgdalENa-gAyLorD.wORKERs.DEv&type=ws&host=Ppal03.magdaLEnA-gAYLoRd.wORKerS.Dev&path=%2FiQm7_H2r35FnS6Uu%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.164.241:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.174.68:2053?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.242.79.71:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-47.242.79.71:80
-vless://c0564435-4115-4515-919d-9630cfcb334a@188.114.98.1:2096?security=tls&sni=xn---qhanatyawi--d-46l653dkga9cvyxa5b70931e3mha.zedmodeon.xyz&type=ws&host=xn---qhanatyawi--d-46l653dkga9cvyxa5b70931e3mha.zedmodeon.xyz&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.1:2096

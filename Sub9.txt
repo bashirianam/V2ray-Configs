@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@104.21.3.52:443?security=tls&sni=hope.ttsorri.info&type=ws&host=hope.ttsorri.info&path=%2Fparadise#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.52:443
 vless://13e31e46-5698-432e-bd0f-a6ce100c1fa2@104.21.0.244:443?security=tls&sni=m.mehpow.ir&type=ws&path=%2F%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.0.244:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.129.252:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.252:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.187:443?security=tls&sni=zdy010.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.187:443
@@ -602,4 +603,3 @@ vless://329a4735-9d14-4fba-b8bc-5ccf8bc488cc@86.38.214.228:2087?security=tls&sni
 vless://1de40725-3e6b-42b1-9e3e-330c852d049e@172.66.46.225:8443?security=tls&sni=pardazeshvpn-tg56.pages.dev&type=ws&host=pardazeshvpn-tg56.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.225:8443
 vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@172.67.161.1:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.1:2096
 vless://d863d446-d17b-4105-b372-dcc53581fb3f@95.215.173.169:42147?security=none&type=tcp&host=amirzaplus.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.215.173.169:42147
-vless://7b9f4ae9-ae9b-4078-8da9-8bfab43e2be1@104.16.28.165:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.28.165:2087

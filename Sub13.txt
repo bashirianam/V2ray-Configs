@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@45.80.111.106:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&path=%2FProxy_mtm%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.106:2083
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@185.165.205.3:443?security=tls&sni=SANdWORM.PAGES.DeV&type=ws&host=SaNdWorM.paGes.DEv&path=/NUx3f5M3thQHsamp&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.165.205.3:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.241:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.241:2087
 vless://f211caae-afdd-4aa8-c332-83a375bdab06@172.67.168.21:443?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/ski-sales-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.21:443
@@ -602,4 +603,3 @@ vless://0f0f7cc8-edcd-436d-bf9d-f7bfdb6ed9ca@104.21.60.209:2082?security=none&ty
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.169.169:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.169.169:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.164.68:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.164.68:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@141.101.113.211:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.113.211:443
-vless://39ae6907-2410-4199-8a25-dae66323f4df@89.221.224.166:443?security=tls&sni=sourceforge.net&type=grpc&serviceName=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇮🇸 IS-89.221.224.166:443
