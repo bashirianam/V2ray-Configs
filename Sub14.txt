@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@141.144.232.159:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-141.144.232.159:443
-vless://cf57e883-7be1-4c12-8f88-d73a9581f4f8@185.158.211.186:443?security=tls&sni=gcore.com&type=ws&host=ali2raygold.com&fp=chrome#🔒 VL-WS-TLS 🇺🇦 UA-185.158.211.186:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.148.107.223:443?security=tls&sni=hk116.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.223:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.191:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.191:8443
 vless://c838f915-90f6-4b3b-9b89-e8cce84d4f26@172.67.186.37:80?security=none&type=ws&host=6.v2ray.bm.nedayevarzesh.ir.newsless.ir.xn--48jyb6ec1ad.tech.irapulsplus.sbs&path=%2Ftelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.186.37:80
@@ -603,3 +601,5 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.20.53.106:80?security=none&type
 vless://f86853c6-7f3d-4c7b-b15b-df47efad6b9e@104.16.169.81:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.169.81:80
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.6.150:2053?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.219.6.150:2053
 vless://242b7fb0-d590-57bd-9924-38092b4a8f21@172.67.212.171:8443?security=tls&sni=esetsecuritylicense.ujlqwtae.WoRkErS.DEv&type=ws&host=esetsecuritylicense.ujlqwtae.WoRkErS.DEv&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.171:8443
+vless://2b278414-fad7-51c9-a8df-11848fee1487@172.67.189.149:8443?security=tls&sni=esetsecuritylicense.rihej59344.wORKeRs.DEV&type=ws&host=esetsecuritylicense.rihej59344.wORKeRs.DEV&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.149:8443
+vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@168.119.239.93:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇩🇪 DE-168.119.239.93:8080

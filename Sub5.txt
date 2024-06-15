@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://408e57f2-4cc4-4990-b54b-cdc900a62150@172.67.189.122:443?security=tls&sni=3ubix-turkey.mesooot.com&type=grpc&serviceName=@SobyV2ray&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.189.122:443
-vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?security=tls&sni=loolu.tech&type=ws&host=loolu.tech&path=%2Fmhdshws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.32:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.146.135:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.146.135:80
 vless://0a3f9255-fcd9-4b63-9617-be755149a77e@172.67.188.241:443?security=tls&sni=sub.vpnstoreone.workers.dev&type=ws&host=sub.vpnstoreone.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.188.241:443
 vless://7bdbdbe9-fe3b-472f-9f8a-4739a5f0f607@104.17.135.39:80?security=none&type=ws&host=FrEE3.etfSReGTdrFTYguj7iJUYTIhHRKLgDrjGFrDJgHKfjLDNnrJESrgsrGRTBvhfYd.COm&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.135.39:80
@@ -603,3 +601,5 @@ vless://21048faa-692b-4548-8833-bf58fd253e7c@172.67.190.236:80?security=none&typ
 vless://9deec183-c239-448b-ac49-a1df69bcf314@193.107.48.63:2222?security=none&type=tcp&host=cloudflare.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.107.48.63:2222
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.136:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.136:8443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.67.128:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.67.128:8080
+vless://e7da87c9-4677-4e51-a285-e0decec4b385@104.31.16.65:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.65:2053
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.53:443?security=tls&sni=kk333.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.53:443
