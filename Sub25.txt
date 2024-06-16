@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://ad2a3120-c281-4436-8aff-ae280273080b@141.94.115.231:443?security=tls&sni=fr-full.privateip.net#%E6%9C%AA%E7%9F%A5467%20147.5KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@54.179.4.150:40033#%E6%9C%AA%E7%9F%A5468
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.86.135.117:2375#US185%201.6MB%2Fs
+ss://YWVzLTI1Ni1nY206NERKeXJ5UVJOcVhGenZqcHdaUHBxQw==@94.131.110.115:47765#%E6%9C%AA%E7%9F%A5469
 ss://MThhM2Y0MDQtNTcyYy00ZjlkLWE4N2YtNDMyOWE3YzEzNGExOg==@104.21.78.138:2083#%E6%9C%AA%E7%9F%A5470
 trojan://NISHIKUITAN222@43.153.80.208:443?security=tls&type=ws&sni=t221.ylks.link&path=/&host=t221.ylks.link#US186
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:5001#US187%201.9MB%2Fs
@@ -599,7 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMjZhSDdYZmdkNWYweFhLQQ==@92.53.86.220:51348
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#%E6%9C%AA%E7%9F%A5877%201.8MB%2Fs
 trojan://a8d5df53-7073-406f-8c88-ac993e3fb9a1@162.251.82.187:443?security=tls&type=ws&sni=AtYrGkMyE51.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv&host=AtYrGkMyE51.diamondgalery.ir#US319
 trojan://NISHIKUITAN222@104.21.42.35:443?security=tls&type=ws&sni=t111.ylks.link&path=/&host=t111.ylks.link#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD23
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODc4IDE0LjBNQi9zIiwiYWRkIjoiMi41OC44Ny4yMjEiLCJwb3J0IjoiNDY2MjgiLCJpZCI6ImY2YmE5ZTVhLTcxMWMtNDk2Zi1iZTYwLWFjNTQ2NGRlYzJiOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI4NzgifQ==
-trojan://e8105dfd24414268b6c7652c63731097@198.41.202.5:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#%E6%9C%AA%E7%9F%A5879
-ss://YWQ0YWExNjUtYzMwZC00OGVjLTkzOTctYWYxZDFkM2IxYzRmOg==@188.114.99.192:443#%E6%9C%AA%E7%9F%A5880
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.29:8888#US320%201.8MB%2Fs
