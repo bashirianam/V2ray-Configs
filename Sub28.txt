@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YTM4NzNlYjktMGM1NC00NmM0LWFiYmYtYWU5Zjg4MGQzNjE5Og==@162.19.228.119:443#%E6%9C%AA%E7%9F%A51754
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3bzZNS3I5VHo5dWxEdDloSUhVZXl2@45.155.121.141:34180#%E6%9C%AA%E7%9F%A51755
 trojan://telegram-id-privatevpns@63.32.138.95:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B04%2016.6MB%2Fs
 ss://MDc1YTM2NWItYjBjNy00YmEzLWI1YTYtNTk3ODUwYzIyM2Y5Og==@104.16.31.34:8880#%E6%9C%AA%E7%9F%A51756
 trojan://ROtELl2aYy@18.142.43.207:55148?security=none&type=ws&path=/#%E6%9C%AA%E7%9F%A51757
@@ -601,5 +603,3 @@ vless://Parsashonam-87@188.114.96.3:8080?encryption=none&host=Parsashonam.%E6%88
 vless://Parsashonam-87@185.146.173.94:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#رایگان | VLESS | @Parsashonam | SE🇸🇪 | 0️⃣6️⃣
 vless://Parsashonam-87@185.146.173.58:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#رایگان | VLESS | @Parsashonam | SE🇸🇪 | 0️⃣7️⃣
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.179.116:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣1️⃣
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.183.79.13:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣2️⃣
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.87.115.236:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣3️⃣
