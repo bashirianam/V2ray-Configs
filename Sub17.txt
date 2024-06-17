@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://J6Y7mSbKsvLv@3.68.166.95:15345?sni=appsvs.shop#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD32
-trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@104.16.67.38:443?security=tls&type=ws&sni=ftp.pardazesh.tech&path=/1C1eEyrBbGr0r2HZ1tSkA&host=ftp.pardazesh.tech#%E6%9C%AA%E7%9F%A51699
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD15%201.8MB%2Fs
 ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@104.25.255.254:443#%E6%9C%AA%E7%9F%A51700
 ss://ODBlNWIxYjYtMDNhYy00NGVkLTk0N2UtZDRkNmM1OTFlNWQ0Og==@104.21.45.185:443#%E6%9C%AA%E7%9F%A51701
@@ -603,3 +601,5 @@ vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk2LjMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AE%F0%9F%87%AAIE-52.138.211.8-0834
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTkxLjQ1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibmV6dWtvLnJhaWRlbnNob2d1bi5jbG91ZG5zLm9yZyIsCiAgICAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cy9vYmRpaS5jZmQiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xOTEuNDUtMDIxNiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-0901
+trojan://ypDt8RkT7J@138.199.57.185:43118?security=tls&sni=eiety.phooeyunfold.com#%F0%9F%87%A8%F0%9F%87%A6CA-138.199.57.185-0187
+trojan://6e54d62a-bf19-4eef-8f6f-53ff14d8f86d@sg-full.privateip.net:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.35.118-0269

@@ -3,6 +3,4 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2efee9ae-f820-4d0a-aa7e-63042e44a4ef@104.168.107.230:10036?encryption=none&flow=xtls-rprx-vision&security=reality&sni=docker.com&fp=chrome&pbk=dYLXakh9CzRwgh0_mtCfFVvLJeb6U3W4LegZh3ZfWEI&sid=e9ded8bba37b3a63&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-10036 | 25.54ms
-vless://93b170f4-5c7d-45eb-8068-090a86bb6508@104.168.107.230:10050?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blogs.windows.com&fp=chrome&pbk=dYLXakh9CzRwgh0_mtCfFVvLJeb6U3W4LegZh3ZfWEI&sid=e9ded8bba37b3a63&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-10050 | 34.51ms
 
