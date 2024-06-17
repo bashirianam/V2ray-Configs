@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.230:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.230:2087
 vless://505094ea-297c-496a-af29-ed33db58f820@172.66.44.237:80?security=none&type=ws&host=speedtest.net.ir.com.site.事列列男事的事列上赛男.ir.novaball.lINK.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.237:80
 vless://40bd0854-8a76-428a-993d-fea77db2a59d@172.67.69.236:8443?security=tls&sni=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&type=ws&host=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:8443
 vless://69b6d557-f883-4606-8fd3-a7a678d4c885@85.9.121.235:8071?security=none&type=tcp&serviceName=-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@Uranium&host=upload.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.121.235:8071
@@ -603,3 +602,4 @@ vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.47.117:443?security=tls&sni=
 vless://db9cf031-33ec-4a39-b27e-6da323144963@162.159.128.233:2053?security=tls&sni=shakhle.jd-vpn.shop.&type=ws&host=shakhle.jd-vpn.shop.&path=/@Jd_Vpn&fp=chrome&alpn=h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:2053
 vless://70ea7a10-de3e-4922-bc7c-4dd7c2cef882@172.66.45.10:443?security=tls&sni=newtunnel-2xm.pages.dev&type=ws&path=%2Fvless&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.10:443
 vless://c58905af-2040-413e-adbc-0e81cc8eb35f@104.24.200.13:8880?security=none&type=ws&host=vless.behradmirzaei1388.workers.dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.200.13:8880
+vless://c9e2e61e-237b-42ef-b498-af6284f2f4ce@104.21.21.41:80?security=none&type=ws&host=v2ray.n.bimax.ir.iranhost.com.speedtest.net.zula.ir.ncba.ir.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.21.41:80

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@172.67.137.198:443?security=tls&sni=edgu.pureboy.eu.org&type=ws&host=edgu.pureboy.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.198:443
 vless://5a6555ea-a997-4381-aac7-8a53b6d2f5a5@104.25.5.6:2087?security=tls&sni=suping2.snapppfood.sbs&type=grpc&serviceName=@AFC_vpn.@AFC_vpn.@AFC_vpn&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.5.6:2087
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@138.2.138.237:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-138.2.138.237:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?security=tls&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&host=00e463Dc.beSTVPn-4xi.PAgES.dEv#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.126:443
@@ -603,3 +602,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.52:443?security=tls&sni=
 vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@104.20.5.172:80?security=none&type=ws&host=workerr.babray.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.5.172:80
 vless://d7858867-cb84-41b6-84a8-f59c94170f48@172.67.220.184:2053?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.220.184:2053
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@150.230.149.208:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-150.230.149.208:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.230:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.230:2087
