@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@146.70.175.167:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.167:443
+vless://edade224-ab25-46e0-a41b-b415b182a59d@104.25.0.26:443?security=tls&sni=qwerdgy47892drvseddsesswdownload.namava.network&type=ws&host=qwErdGy47892DRvSEddSEsSWDownload.namava.network&path=%2F54051%2Fdownload&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.0.26:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@146.70.175.99:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.99:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.85.129:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.85.129:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.34.251:443?security=tls&sni=B458aB02.cAa-CHANEL-WORKER-pAge-fREE-jhUiHnuJhpHJKL-nIHGKjn.PAges.Dev&type=ws&host=b458ab02.CAa-cHANel-woRkEr-PaGE-FRee-jHUIhNUJhPhjkl-NiHGkjn.paGEs.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.251:443
@@ -601,5 +603,3 @@ vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@104.21.40.164:2096?security=tls&sni
 vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@172.67.223.33:443?security=tls&sni=admin.irayanconfig.ir&type=ws&host=admin.irayanconfig.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.223.33:443
 vless://fc5fd045-f911-4220-8f76-1ac4115e51c4@104.21.63.77:2087?security=tls&sni=bmw.nonoal.xyz&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.63.77:2087
 vless://206cbf43-c050-4be1-87d0-b0db774a244e@173.245.59.101:2053?security=tls&sni=FreeIran.DarkMood.cfd&type=grpc&serviceName=FreeIran.DarkMood.cfd&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.59.101:2053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.2.181:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.2.181:80
-vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.5:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.98.5:8880

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://eaa8cb8a-fa6d-4ecf-a53e-822711014c50@[2a01:4f8:c17:b908::1]:9124?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool`
+vless://eaa8cb8a-fa6d-4ecf-a53e-822711014c50@[2600:3c06::f03c:94ff:fe9f:72ec]:9124?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool`
 vless://eaa8cb8a-fa6d-4ecf-a53e-822711014c50@[2a01:4f9:c012:efbf::1]:9124?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool`
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:6816:4442]:2053?path=%2F%40V2VIPCHANNEL%2F%3Fed%3D2048&security=tls&encryption=none&host=xxx.donated004.workers.dev&type=ws&sni=xxx.donated004.workers.dev#👉🆔 @v2ray_configs_pool`
 vmess://eyJhZGQiOiAiMTcwLjE3OC4xNzkuMTkwIiwgImFpZCI6IDY0LCAiaG9zdCI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE4MjMyMDE4MTUxMiIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==`
@@ -601,5 +603,3 @@ vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.18.22.19:2096?security=tls&sni=
 vless://5fe9ddd1-6cb7-4959-e963-9e60ddd70694@104.21.59.67:443?security=tls&sni=paradiselost.pafyegedro.workers.dev&type=ws&host=paradiselost.pafyegedro.workers.dev&path=/downloader/40943&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.67:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@130.61.15.34:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-130.61.15.34:443
 vless://dc83e81b-f527-42f4-8013-ce9e1d5f6967@172.67.204.84:2096?security=tls&sni=arxx.amshvip.ir&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2096
-vless://f7b69b6c-c6d1-4abe-89ef-6396103afa01@104.17.243.198:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.243.198:8080
-vless://840ca14a-ea50-465a-b679-69d9f0b7a366@104.17.2.183:2087?security=tls&sni=Helix-2.mahoraga.space&type=grpc&serviceName=Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.2.183:2087

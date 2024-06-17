@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9102#%E6%9C%AA%E7%9F%A539%201.1MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:804#%E6%9C%AA%E7%9F%A540%2012.2MB%2Fs
 trojan://moist@146.56.44.226:55555?security=tls&type=ws&sni=trojan.freenods.sbs&path=/&host=trojan.freenods.sbs#%E6%9C%AA%E7%9F%A541
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.123.243:2087?security=tls&type=ws&sni=mfjd.591haoka.com&host=mfjd.591haoka.com#HK3
 trojan://Ck0nkbbsur@104.17.70.206:2096?security=tls&type=ws&sni=tls.redbullplus.xyz&path=/wsss&host=tls.redbullplus.xyz#%E6%9C%AA%E7%9F%A542
@@ -601,5 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZek15TXpVMg==@95.164.35.90:8388#%E6%9C%AA%E7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:40023#HK38
 ss://ODE2OWNkMTgtZTgyNC00N2E0LWE0ZDQtOTY0MzNiMWE1MTlkOg==@172.67.168.93:80#%E6%9C%AA%E7%9F%A5449
 ss://ZTRlN2IxNDktOGJkOC00MjY2LThjYmItMDk4NzYwNGRiYzg3Og==@104.17.95.243:443#%E6%9C%AA%E7%9F%A5450
-trojan://a8d5df53-7073-406f-8c88-ac993e3fb9a1@162.251.82.187:443?security=tls&type=ws&sni=AtYrGkMyE51.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv&host=AtYrGkMyE51.diamondgalery.ir#US139
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3389#US140%201.9MB%2Fs
