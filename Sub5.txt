@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.64.35.226:443?security=tls&sni=BpB.RaDICAlizAtIon.IR&type=ws&host=bpB.RadIcaliZaTion.ir&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.226:443
 vless://23beafe4-135e-4387-b0f2-c228476694fb@104.21.19.148:2096?security=tls&sni=Tu.osirisgames.ir&type=ws&host=Tu.osirisgames.ir&path=/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.148:2096
 vless://6df3350b-1c1c-41c4-ba5b-0f5a4e7fb77f@104.21.20.148:2095?security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.像鸟一样自由.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:2095
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@144.24.78.13:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-144.24.78.13:443
@@ -602,4 +603,3 @@ vless://5403ccb0-2706-4ed7-9851-e2d3552bbf49@185.146.173.146:2095?security=none&
 vless://5ef01b16-ca53-4516-9d0e-6f9f3e6da0d0@172.67.163.103:2087?security=tls&sni=al.moienmusic.space&type=grpc&serviceName=Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.103:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.181.217:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇯🇵 JP-43.153.181.217:80
 vless://11c278ae-ca8c-4347-985d-6c8111cab456@104.21.88.52:2087?security=tls&sni=v2raxx-tel-ws.amalfatm.ir&type=ws&host=v2raxx-tel-ws.amalfatm.ir.&path=%2F%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.52:2087
-vless://561bc1e2-32d2-4730-a530-920d0aa1808c@162.159.6.148:2087?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/sports-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.6.148:2087
