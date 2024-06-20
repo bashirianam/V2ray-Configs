@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://29cf96e6-8008-4233-a883-4b5daeb72309@172.67.153.213:443?security=tls&sni=helloworld.seyed-ali-khamenei-binamous.site&type=ws&host=helloworld.seyed-ali-khamenei-binamous.site&path=/@azadi_az_inja_migzare&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.213:443
-vless://33818a00-cbdb-4ae0-a31a-e7de094e7aec@104.21.8.66:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.66:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.237:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.237:443
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@104.21.38.94:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.94:443
-vless://280dc615-767b-4800-8796-a8de253b88d9@190.93.247.247:8880?security=none&type=ws&host=V2ray.B.LAMBOoOghtYooUUYh.ir.&path=@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.247:8880
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.38:443?security=tls&sni=kk600.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.38:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.130.107:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.130.107:80
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@160.153.0.29:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.29:2083
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.13.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.13.130:2083
 vless://f61b9661-baef-4feb-a449-cfbdec6c3d37@104.26.3.0:2053?security=tls&sni=varda.manwe.ir&type=ws&host=varda.manwe.ir&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.0:2053
@@ -603,3 +596,10 @@ vless://514d4474-fe80-45ba-9b69-0c86fe4201eb@23.227.60.56:8080?security=none&typ
 vless://52c602fc-532d-49ee-9383-f8eb0007322b@104.31.16.92:80?type=ws&host=unitedstates.heydasip.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.31.16.92:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.32:443?security=tls&sni=kk111.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.32:443
 vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@104.16.209.12:2083?security=tls&sni=nl.cypherpunks.fun&type=ws&host=nl.cypherpunks.fun&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.209.12:2083
+vless://e3f09ae9-ea19-4eb1-82e5-7c3473545119@62.60.210.193:8580?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.193:8580
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@160.79.104.51:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.51:443
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.197:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.141:443
+vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.51.208:443?security=tls&sni=watashi.free.de.mnhacker.eu.org&type=ws&host=watashi.free.de.mnhacker.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.208:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@61.220.41.143:36633?security=tls&sni=80.qing1.link&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇹🇼 TW-61.220.41.143:36633
+vless://9d272efb-7bc6-4124-b15b-b088e374cb0b@172.67.194.59:8443?security=tls&sni=Hot_V2Ry.tahrim-shekan.space&type=ws&host=Hot_V2Ry.tahrim-shekan.space&path=/&fp=chrome&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.59:8443

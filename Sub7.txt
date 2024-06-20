@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://92884c02-8b07-4519-b212-f917a14395c3@172.67.138.246:2096?security=tls&sni=selinc-10-selinc-10selinc.wxupwz.workers.dev&type=ws&host=selinc-10-selinc-10selinc.wxupwz.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.246:2096
-vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.237:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.210.237:8919
-vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:8080?security=none&type=ws&host=workerr.hashdiler.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.161.1:8080
-vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:80?security=none&type=ws&host=071ll2532.16965a6a7d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.217:80
-vless://f54c1c56-d3b2-41b3-9974-78bdd8807939@104.22.51.162:8880?security=none&type=ws&host=liV2raya.善良的闪电.monster&path=/@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.51.162:8880
-vless://7c8c641f-c970-471b-9785-08817a305b0a@5.253.41.160:443?security=tls&sni=jp-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇾 CY-5.253.41.160:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@176.97.73.82:8443?security=tls&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=%2F#🔒 VL-WS-TLS 🇯🇵 JP-176.97.73.82:8443
 vless://1c6c6eb9-4559-466f-9297-f3d4c557b663@104.24.177.7:8880?security=none&type=ws&host=cdn.red1.napsternet.party&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.7:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.146.249:8443?security=tls&sni=hk555.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.146.249:8443
 vless://79473718-0451-41c3-a0a2-9f6d21c99f75@172.66.47.125:443?security=tls&sni=9052b030.joinmahdiserver-90p.pages.dev&type=ws&host=9052b030.joinmahdiserver-90p.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.125:443
@@ -603,3 +596,10 @@ vless://f3dc958a-1f2c-4d10-b781-b2deeaabecce@104.18.12.229:2096?security=tls&sni
 vless://621ca169-9688-4f98-afa3-8dabda1cee46@104.25.249.189:443?security=tls&sni=tft-supervisor-portsmouth-timeline.trycloudflare.com&type=ws&host=tft-supervisor-portsmouth-timeline.trycloudflare.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.249.189:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.10.182:2083?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.10.182:2083
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@159.246.55.174:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-159.246.55.174:443
+vless://29cf96e6-8008-4233-a883-4b5daeb72309@172.67.153.213:443?security=tls&sni=helloworld.seyed-ali-khamenei-binamous.site&type=ws&host=helloworld.seyed-ali-khamenei-binamous.site&path=/@azadi_az_inja_migzare&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.213:443
+vless://33818a00-cbdb-4ae0-a31a-e7de094e7aec@104.21.8.66:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.66:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.237:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.237:443
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@104.21.38.94:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.94:443
+vless://280dc615-767b-4800-8796-a8de253b88d9@190.93.247.247:8880?security=none&type=ws&host=V2ray.B.LAMBOoOghtYooUUYh.ir.&path=@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.247:8880
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.38:443?security=tls&sni=kk600.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.38:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.130.107:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.130.107:80
