@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://36a8a97b-9380-4cfb-9248-4f71a09f454c@104.16.61.8:2053?security=tls&sni=ag.YaKariim.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.61.8:2053
-vless://a175cf3b-772d-44ba-d079-7bab59087f54@203.32.121.53:443?security=tls&sni=vipnl.pablovpn.pw&type=grpc#🔒 VL-GRPC-TLS 🇻🇬 VG-203.32.121.53:443
-vless://4839bc0b-0c7a-4c6d-90d6-b2a4997fde89@212.80.18.60:41661?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.18.60:41661
-vless://6e435f9f-25df-4101-9a5c-736a6858b8cb@94.182.222.29:12061?security=none&type=tcp&host=4x0iy8g7.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.222.29:12061
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.211.17:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.211.17:80
-vless://af60861e-296e-4578-eaae-2ff95675040c@172.67.222.217:80?security=none&type=ws&path=/.Turk#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.222.217:80
-vless://ce526092-81c1-42be-8354-88e58946c1f3@104.21.74.139:443?security=tls&sni=monardas.aurorainiceland.com&type=ws&path=/nimws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.139:443
-vless://e999ef63-e15f-415d-810a-c16bd245bf74@104.17.247.203:443?security=tls&sni=dl2.exoshop.ir&type=ws&host=dl2.exoshop.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.247.203:443
 vless://94b3cbba-e6ac-485a-9481-976a0916eab9@104.21.31.221:443?security=tls&sni=esetSEcUriTyLicENSE.URNuVSg.wOrkeRS.dev&type=ws&host=EsEtSeCuRITYLIceNSe.urNuvsg.WORKers.DEV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.221:443
 vless://f226dd38-d7b1-47c7-8051-37cd32473993@172.66.44.135:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:80
 vless://9ca37727-0381-47e2-bcbb-2fe12875eaea@172.67.160.56:443?security=tls&sni=esetsECuRityLicEnse.XAagczZ.WorkERS.DEV&type=ws&host=esEtsECurItyliCEnsE.XaAGczz.worKers.deV&path=%2FGH1st3uOy36PWqdP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.56:443
@@ -603,3 +595,11 @@ vless://5fe9ddd1-6cb7-4959-e963-9e60ddd70694@172.67.217.152:443?security=tls&sni
 vless://d5f26145-1417-49ee-a3b1-a336a095f2d5@104.18.37.111:2096?security=tls&sni=F1.fruitsstore.ir&type=ws&host=F1.fruitsstore.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.37.111:2096
 vless://d6b3de64-f0f8-4113-b49f-2660f3c031fb@192.9.246.112:8443?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&path=%2Ffylink.pages.dev%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-192.9.246.112:8443
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:443?security=tls&sni=ada3.qowch.com&type=ws&host=ada3.qowch.com&path=users?ed&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.67.38:443
+vless://08d82e24-728a-41b4-87a2-074bea2d4f32@185.146.173.122:8080?security=none&type=ws&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&path=/#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.122:8080
+vless://be40e282-0efd-489b-9350-a1dd266c9961@162.159.133.234:2096?security=tls&sni=ads.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.234:2096
+vless://ee2960f8-2e78-4832-9c1f-3be20897cd30@31.43.179.183:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🇰🇿 KZ-31.43.179.183:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.254.140.46:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-104.254.140.46:443
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.212.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.212.110:2087
+vless://38535031-ccc3-4a94-bd54-c68806486406@104.26.0.72:443?security=tls&sni=furina.yaemiko.cloudns.org&type=ws&host=furina.yaemiko.cloudns.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.0.72:443
+vless://985120a0-752c-4368-9a91-50aada0ff2de@194.195.125.6:2003?security=tls&sni=au-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇦🇺 AU-194.195.125.6:2003
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.85:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.85:443
