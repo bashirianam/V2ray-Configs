@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://381eb2e9-e18a-4f50-93b7-96965a36b7ad@172.67.204.39:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.39:80
-vless://2af155c5-8b42-4ef6-ab59-111f84907c7e@95.38.132.232:11015?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.132.232:11015
-vless://9e143791-7a39-4c33-b0d4-8e5d2a2c6a19@172.67.201.43:443?security=tls&sni=mahdidehghan-vpnserver1382.dotiv60998.workers.dev&type=ws&host=mahdidehghan-vpnserver1382.dotiv60998.workers.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.201.43:443
-vless://c550bbb3-e061-404a-8471-dd5b5e0e5938@162.159.134.233:80?security=none&type=ws&host=米拉德科尼.尼亞團員4尼亞團員0尼亞團員7尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞團亞團員亞團員.store.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.233:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.116:443?security=tls&sni=jp600.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇰🇿 KZ-194.76.18.116:443
-vless://10716279-b1ee-41d8-b63e-87782088305b@172.67.214.246:443?security=tls&sni=heY.BACHebiAPaIN.IR&type=ws&host=HeY.BAChEbIApAIn.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.246:443
-vless://ef240b93-6d42-4171-81e3-348440b203cf@188.114.96.2:2083?security=tls&sni=join20.maznet.cfd&type=ws&host=join20.maznet.cfd.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.2:2083
 vless://1cee36ed-5b67-4d62-cb83-01c783ef6fa2@190.93.246.241:8443?security=tls&sni=antiV2ray-poV2ray-gRPC-WS.AhV2ray.fun&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:8443
 vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.9.55:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be&path=%2F%3Fed%3D2056#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.9.55:443
 vless://20b9db35-c152-4eb5-ab8e-8c35d335b2f5@104.27.62.243:80?security=none&type=ws&host=XF2.SportNewShop.ir.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.62.243:80
@@ -603,3 +596,10 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.16.142.237:443?security=tls&sni
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.99.14.191:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-3.99.14.191:22222
 vless://962a733d-26d7-108d-7fa6-a8102ffea8eb@104.21.33.228:443?security=tls&sni=vowelquran18.xyz&type=ws&path=/current_time&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.33.228:443
 vless://9cc8a2cb-3d1c-4d0c-bf50-a727d38a371b@172.67.142.10:2087?security=tls&sni=turkey-mci-hhh.jsfui232.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.142.10:2087
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.66:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.66:80
+vless://eb44ea0e-d927-4ea8-8312-17888d03d3a6@104.16.230.132:80?security=none&type=ws&host=ratio-lies-kenya-egg.trycloudflare.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.230.132:80
+vless://9d272efb-7bc6-4124-b15b-b088e374cb0b@104.21.28.188:8443?security=tls&sni=Hot_V2Ry.tahrim-shekan.space&type=ws&host=Hot_V2Ry.tahrim-shekan.space&path=/&fp=chrome&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.188:8443
+vless://bb8f41c4-ebfe-4210-f0d9-14a65c3e433e@193.111.236.194:8443?security=tls&sni=skyroom.online.usir.pingvps.shop&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇮🇷 IR-193.111.236.194:8443
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.84.214:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.84.214:443
+vless://417c54fa-78c7-492f-bbc9-66f61be02ced@162.159.40.113:2083?security=tls&sni=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&type=ws&host=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.40.113:2083
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.244:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.244:80
