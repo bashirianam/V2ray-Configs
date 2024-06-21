@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c0ac9d51-2540-487f-a4a6-26737c979558@162.159.136.232:2052?security=none&type=httpupgrade&host=jD.neT.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.SaMaN.Monster.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-162.159.136.232:2052
+vless://cead5a7e-4a1d-4f93-8825-429969dd2fb8@162.159.134.234:2083?security=tls&sni=new.top-speed.shop&type=grpc&serviceName=go-ogle&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2083
 vless://9f70a4c0-f727-47fb-ba7d-d604dba9669c@172.67.152.111:443?security=tls&sni=worker-little-leaf-7f8e.foxici5037.workers.Dev&type=ws&host=worker-little-leaf-7f8e.foxici5037.workers.Dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.152.111:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@8.218.122.55:2096?security=tls&sni=v600.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-8.218.122.55:2096
 vless://6ae78853-9cae-44bd-88bd-9f32723eb685@104.21.1.148:2083?security=tls&sni=marketepicnode6.nabarbest.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.1.148:2083
@@ -601,5 +603,3 @@ trojan://NISHIKUITAN222@172.67.199.233:2083?security=tls&sni=t111.ylks.link&type
 trojan://ROtELl2aYy@18.142.43.207:55148?security=none&type=ws&path=/#🔒 TR-WS-NONE 🇸🇬 SG-18.142.43.207:55148
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12034?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.122:12034
 trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?sni=sourceforge.net&type=ws&host=se1.trojanvpn.de&path=/websocket&allowInsecure=1#🔒 TR-WS-NA 🇸🇪 SE-95.164.33.62:443
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.145:443
-trojan://c8742e83-c325-4332-a427-9cdc997a4775@185.143.234.225:443?security=tls&sni=dl.allavatar.top&type=ws&host=dl.allavatar.top&path=/tr/t/tNtL/gfdr#🔒 TR-WS-TLS 🇮🇷 IR-185.143.234.225:443
