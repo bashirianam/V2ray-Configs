@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d211cb27-c37c-455b-c4a4-78cefdfde755@104.21.18.38:443?security=tls&sni=blacksabbath.nabise4347.workers.dev&type=ws&host=blacksabbath.nabise4347.workers.dev&path=/downloader/35363&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.38:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.37.42:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.37.42:80
+vless://7b568d25-ea44-4d41-b07f-0beb4095287f@172.67.210.56:8880?security=none&type=ws&host=Baloch.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.210.56:8880
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.182:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.182:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.48.222:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.222:443
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@104.20.109.195:80?security=none&type=ws&host=tunn.free.hr#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.109.195:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.93:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.93:443
@@ -599,7 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.117.150:2053?security=tls&sn
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.55.205:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.55.205:443
 vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2087?security=tls&sni=sisand.waztow.WoRkeRs.DEv&type=ws&host=sisand.waztow.WoRkeRs.DEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.234.127:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-47.242.234.127:80
-vless://dffd0356-baca-4802-98da-733bdb4a010e@188.114.98.18:443?security=tls&sni=afjdh053dda.72386902d6.workers.dev&type=ws&host=afjdh053dda.72386902d6.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.18:443
-vless://796aeccb-3129-46ce-a2ca-0abf399a5e7a@185.146.173.82:2082?path=/Free#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.82:2082
-vless://d84cb593-a791-45f2-914c-9cdde89fb333@203.159.92.42:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇹🇭 TH-203.159.92.42:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.148.212:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.148.212:80
