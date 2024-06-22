@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:2083?security=tls&sni=a.ssll.gay&type=ws&path=twitter苏小柠#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:2083
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.54.157:2053?security=tls&sni=hk999.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-47.242.54.157:2053
-vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@172.67.167.116:443?security=tls&sni=vahem.minusober.com&type=ws&path=%2Fvahem#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.167.116:443
-vless://3d39930a-b33a-45d0-b511-f2b8d4d00c1e@91.195.110.245:2053?security=tls&sni=kfkjhkuyg.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇦🇲 AM-91.195.110.245:2053
-vless://e31bb16e-91f9-47e7-9947-e2a19f294fd4@78.39.57.29:8888?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.57.29:8888
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.145.40:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.145.40:80
 vless://933412a7-ed98-4294-c31b-4d36ef13137e@91.219.148.49:2053?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇷🇺 RU-91.219.148.49:2053
 vless://dcebdab1-30b4-4dc3-a49c-8e9486bb48f7@104.21.69.44:2086?security=none&type=ws&host=Cloutdcjvg.samancenter.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:2086
@@ -603,3 +598,8 @@ vless://11b1cbba-e6ac-485a-9481-136a0415eab9@172.67.171.139:443?security=tls&sni
 vless://fe64cd72-3288-4c31-9b09-fff9b26b7437@185.143.232.200:80?type=ws&host=free-02.artemis-03.sbs&path=/@Artemis_vpn#🔒 VL-WS-NA 🇮🇷 IR-185.143.232.200:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.63:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.63:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.209.219:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.209.219:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.199.233:2052?type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.199.233:2052
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.180.51:2053?security=tls&sni=kk555.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.180.51:2053
+vless://0c94ca98-3643-4cb4-de75-6167815af665@172.67.212.223:8443?security=tls&sni=admin.kanal-tel-nufilter.store&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.212.223:8443
+vless://1e248837-a2d0-4d87-9358-ba2a91daf6cc@104.18.6.24:8080?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.secretshop.tech#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.6.24:8080
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.54.150:443?security=tls&sni=BIa-pAIN-bAche.PagEs.DeV&type=ws&host=BiA-pAIN-bACHE.pAges.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.54.150:443

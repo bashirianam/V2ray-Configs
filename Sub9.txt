@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.206:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.206:443
-vless://8d2b1217-c750-4fe6-9d07-7325cf1e300b@104.18.37.228:443?security=tls&sni=help.melov2ray.shop&type=grpc&serviceName=melov2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.37.228:443
-vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.197.20:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.197.20:2083
-vless://2a93a49b-d7dd-43fd-834c-b8786c063f44@104.17.175.151:2087?security=tls&sni=hukfyukgilkgil.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.175.151:2087
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@152.70.166.114:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-152.70.166.114:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.108:443?security=tls&sni=hk600.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.108:443
 vless://99678074-122c-46db-97fc-80b604c20158@104.18.8.215:8080?security=none&type=ws&host=shuige2.ywfmu-qx.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.8.215:8080
 vless://35caec98-86de-4f38-a011-eb7e134446c7@104.21.92.185:443?security=tls&sni=anaSErViCeZilOrX.iXpUB.WORKErS.deV&type=ws&host=anaserVicEZIlOrX.IXPUb.WoRKErs.DEV&path=%2F@VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.185:443
@@ -603,3 +598,8 @@ trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.232.246:2053?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.217.232.246:2053
 trojan://NISHIKUITAN222@104.19.51.58:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.51.58:443
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.6:443
+trojan://GSYYULACz0@104.18.203.232:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.203.232:8080
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&sni=upload.soft98.download&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-54.37.220.201:443
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.173.78:2083?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.218.173.78:2083
+trojan://NISHIKUITAN222@47.236.253.41:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.253.41:8443
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443
