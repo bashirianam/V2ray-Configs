@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://df7735b8-3c87-4881-89b9-d49a7979f900@89.235.119.73:2087?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.235.119.73:2087
 vless://43c684d7-2674-45c9-bd55-d6e803fed92b@172.67.180.228:80?security=none&type=ws&host=uk1-vless.vpnhack.xyz&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.228:80
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.244.43:443?security=tls&sni=mt1.nabsk.com&type=ws&alpn=http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.244.43:443
 vless://b04859a9-1156-4d22-8873-60980d5b599d@104.21.72.252:8080?security=none&type=ws&host=connectix.eo-wee3242343-rewre-efwe-f-ewffew-f-ewa-f290fwa-fawfe.online&path=/connectix#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.72.252:8080
@@ -602,4 +603,3 @@ vless://f7a97275-466d-4df6-b055-df898ff75eb9@185.146.173.82:2082?path=/Free#🔒
 vless://dab6b473-1c06-4760-81b0-e56cc0beb1e3@162.159.137.232:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:8080
 vless://5fd30283-078d-4ee6-873b-4ecb8fec1958@162.159.134.234:2082?security=none&type=ws&host=none.error_none.error_10101010.iRAN-chEck-hOst-SERVER-sitesssssssssssssssssssssss--sssssssssss.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.234:2082
 vless://e41b9c55-9fcd-46e8-a913-2812d7805eb7@5.190.131.5:443?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.190.131.5:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.192:2083?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.192:2083

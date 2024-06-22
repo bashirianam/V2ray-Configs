@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@172.67.2.238:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=/apple#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.2.238:443
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config-Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.8.202:443
 trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.29.166.190:20650?sni=aus01.ckcloud.info#🔒 TR-TCP-NA 🇨🇳 CN-14.29.166.190:20650
 trojan://NISHIKUITAN222@8.219.161.129:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.161.129:8443
@@ -602,4 +603,3 @@ trojan://abcacba-acab-cbaa-cabd-baacabcbbcca@127.0.0.1:8080?security=tls&type=tc
 ss://bm9uZTphYmJjY2FhLWFiY2EtYmFhYy1hYmRjLWNhY2FhY2JiYmFjYg==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SAT-02-TIR-1403 🕑 10:56
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8090
 ss://NzM5YWVmMjctN2NmNC00NDU3LTgzOWMtNDQ5ZTcwN2Q2NGVhOg==@104.31.16.121:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.31.16.121:443
-ss://NjRhMTI1YjEtNGE1Ny00YTY0LWJmYjItN2RjNjg2NmM1NWJjOg==@50.7.85.221:443#🔒 SS-TCP-NA 🇩🇪 DE-50.7.85.221:443
