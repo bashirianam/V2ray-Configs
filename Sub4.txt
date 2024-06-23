@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.25.220:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.220:2096
-vless://b324b5d9-dd94-4b6f-b636-cc3e48d8a7fa@172.67.187.56:2083?security=tls&sni=marketepicnode10.bestgameir2.ir&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.56:2083
 vless://9e248b4e-2ee5-4e68-a164-633c408c118f@162.159.1.94:443?security=tls&sni=mci.eidafemini.monster&type=ws&host=mci.eidafemini.monster&path=/G296AyPNm3AYwsQVGSKX&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.1.94:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.143:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.143:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.253.73:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.253.73:80
@@ -603,3 +601,5 @@ vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@45.133.247.90:2083?security=tls&sni
 vless://f7d2e53e-0728-49b0-89f7-ad730ee0cc49@104.21.20.26:2083?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.26:2083
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.166:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-155.46.213.166:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.231:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter苏小柠#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.231:8443
+vless://f5a78514-1a94-486e-92a7-3bc9817095a6@104.21.34.74:443?security=tls&sni=nitriding.appreviewcenter.com&type=ws&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.74:443
+vless://7509f896-2115-4420-b487-501c9103bebd@193.122.118.149:34237?security=tls&sni=ccs.443888.xyz&type=ws&path=%2Fvless%3Fed&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-193.122.118.149:34237
