@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://NISHIKUITAN222@8.219.51.211:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.51.211:8443
 trojan://d2698cf9-c47e-455c-8384-12e642cbba15@89.116.180.179:443?sni=p6us4.pqjc.buzz&type=ws&path=/pq/us4&allowInsecure=1#🔒 TR-WS-NA 🇱🇹 LT-89.116.180.179:443
 trojan://nkmnlPd4k2@45.67.32.147:31104?security=reality&sni=discordapp.com&type=grpc#🔒 TR-GRPC-REALITY 🇷🇺 RU-45.67.32.147:31104
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.175.51:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.175.51:443
@@ -602,4 +603,3 @@ ss://OGEwNTJjNjUtYmRmNi00ODVhLWMxZDctY2IyYjIzZjE1ZGZhOg==@104.16.6.65:443#🔒 S
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.133:5003#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.133:5003
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.27.50:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.27.50:80
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@172.66.47.132:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.132:80
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:8888#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8888

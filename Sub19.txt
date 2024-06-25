@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.2:2053?sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A51293
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.111.114.133:2375#%E6%9C%AA%E7%9F%A51294%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.89:2376#US433%201.7MB%2Fs
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.65:8080#US434%201.9MB%2Fs
@@ -602,4 +603,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%E6%9C%AA%E7%9F%A51717%
 trojan://ypDt8RkT7J@151.115.83.178:43118?security=tls&type=tcp&sni=eimna.phooeyunfold.com#%E6%9C%AA%E7%9F%A51718%202.2MB%2Fs
 ss://ODViOTRmMjAtZTU2My00OThiLTlkNGItYTc1NDM4YTUxMTAxOg==@104.18.1.89:8443#%E6%9C%AA%E7%9F%A51719
 ss://MmUwMWViY2YtNGJkNi00YmU0LTkzNjUtZjVjNjIzNTEwNTEyOg==@104.25.37.104:2052#%E6%9C%AA%E7%9F%A51720
-trojan://63d7b7bb-e526-3ea5-a61f-9da6df645da0@scloud57.jafiyun.life:22057?#%E6%9C%AA%E7%9F%A51721

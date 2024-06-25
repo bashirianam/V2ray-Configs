@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://63d7b7bb-e526-3ea5-a61f-9da6df645da0@scloud57.jafiyun.life:22057?#%E6%9C%AA%E7%9F%A51721
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&type=ws&sni=bangladeshipatri.com&path=/6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A51722
 ss://Y2Y0Mjg5NTUtODZjMi00NmIxLThjZDctZjExMTY2NmZmOWZjOg==@104.16.67.38:2053#%E6%9C%AA%E7%9F%A51723
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.21.254:80#%E6%9C%AA%E7%9F%A51724
@@ -602,4 +603,3 @@ ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.17.249:80#%E6%9
 trojan://telegram-id-privatevpns@18.134.183.109:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A52150
 ss://MTA3MTYyNzktYjFlZS00MWQ4LWI2M2UtODc3ODIwODgzMDViOg==@190.93.244.18:443#%E6%9C%AA%E7%9F%A52151
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@213.183.63.69:9098#%E6%9C%AA%E7%9F%A52152%20612.3KB%2Fs
-trojan://NISHIKUITAN222@47.237.8.82:8443?security=tls&type=ws&sni=t222.ylks.link&path=/&host=t222.ylks.link#%E6%9C%AA%E7%9F%A52153
