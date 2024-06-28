@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.143:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.143:80
-vless://bd8bbe63-0100-4bdf-80f6-9aac8a910639@45.94.169.113:8880?security=none&type=ws&host=V2ray-_-_-_-_-_-cDn.Mamadv2raYng.CoM.&path=%2Ftelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-Lookivpn%2Ctelegram-CPY_TEEL%2CMmdv2rayng-V2rayngmmd-telegram-mehran-v2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇦 UA-45.94.169.113:8880
-vless://775213ac-3976-439a-8977-3277c0e4735d@79.99.30.138:8443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.138:8443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.47.88:8443?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.88:8443
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@172.67.205.139:2052?type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.205.139:2052
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.221.130:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.221.130:80
 vless://b7b66581-6a5b-4935-a799-ab0ea327d4ca@185.58.240.183:2053?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.58.240.183:2053
@@ -603,3 +599,7 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@104.22.6.4:443?security=tls&sni=hEy
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.207.60:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.207.60:80
 vless://3ebb18cd-0a44-441a-ab7c-bed685abc1c1@141.193.213.20:443?security=tls&sni=443.gooshttest.online&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.20:443
 vless://9b238ae3-3f1b-4eb5-a2f8-ea62ffe70137@104.21.7.14:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree.chizuko02.workers.dev&path=%2FTelegram%3A%40VPNHTTPInjectorfree-Telegram%3A%40VPNHTTPInjectorfree-Telegram%3A%40VPNHTTPInjectorfree-Telegram%3A%40VPNHTTPInjectorfree-Telegram%3A%40VPNHTTPInjectorfree%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.7.14:80
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.111.9:443
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?security=tls&sni=who-cares.BacheBiaPain.IR&type=ws&host=who-cares.BacheBiaPain.IR#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.158:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.110.172:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.110.172:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.233.162:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.233.162:443

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?security=tls&sni=sourceforge.net&type=grpc&serviceName=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇬🇧 GB-45.140.167.94:443
-vless://7ef8abc6-19f1-4e32-a8f2-2d77497e1808@104.20.11.224:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.11.224:80
-vless://66b3cbba-e6ac-485a-8781-976a0415eab8@104.21.8.226:443?security=tls&sni=esetSeCurITylicENSe.ZRytZnbE.woRkerS.deV&type=ws&host=EseTsECUriTyliCENsE.ZrYTZnBE.WoRkErS.deV&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.226:443
-vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.2:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.98.2:8880
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.217.53:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.53:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.25.126:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.25.126:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.16.210:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.16.210:443
@@ -603,3 +599,7 @@ vless://e982aa04-033d-4811-a6eb-724ea8e5300d@172.105.18.131:443?security=tls&sni
 vless://dfab83c0-56c6-4e0a-8bdc-4ee6dda769f3@104.21.21.41:8080?security=none&type=ws&host=v2ray.n.bimax.ir.iranhost.com.bishtarazyek.com.speedtest.net.zula.ir.ncba.iR.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.21.41:8080
 vless://9b174395-2af1-49e4-bc0c-542b6366522f@172.67.171.49:8080?security=none&type=ws&host=31ww.debian.org.3.debian.org.speedtest.net.azadistadium.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.49:8080
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.17.121.221:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.121.221:2053
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.143:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.143:80
+vless://bd8bbe63-0100-4bdf-80f6-9aac8a910639@45.94.169.113:8880?security=none&type=ws&host=V2ray-_-_-_-_-_-cDn.Mamadv2raYng.CoM.&path=%2Ftelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-CPY_TEEL%2Ctelegram-Lookivpn%2Ctelegram-CPY_TEEL%2CMmdv2rayng-V2rayngmmd-telegram-mehran-v2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇦 UA-45.94.169.113:8880
+vless://775213ac-3976-439a-8977-3277c0e4735d@79.99.30.138:8443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.138:8443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.47.88:8443?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.88:8443
