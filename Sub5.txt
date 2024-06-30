@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.37.179:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.37.179:80
 vless://db104d65-e6c1-09dc-cc77-7521eddd081d@94.182.134.47:443?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.134.47:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.25.142:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.25.142:80
 vless://dc00f1f8-05b2-4bc0-b851-d4dfe5089329@173.245.49.116:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.49.116:80
@@ -602,4 +603,3 @@ vless://6df800b7-d053-5232-9d0d-ac6c80a44e6c@172.67.221.68:2083?security=tls&sni
 vless://6f6e8a5e-8954-491e-a892-1b8457befba5@104.16.60.8:2086?type=ws&host=cloutdcjvg.samancenter.com.&path=%2F%40Kingspeed_support-iran%3Fed%3D1024#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:2086
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.89.19.0:443?security=tls&sni=mmghgy5.azurewebsites.net&type=ws&host=mmghgy5.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇨🇦 CA-40.89.19.0:443
 vless://42a96958-dc6d-48df-98be-f79d918e8ce0@185.146.173.185:8080?type=ws&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.185:8080
-vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?security=tls&sni=FALCuNaRGo.E18061F38a.WORkErS.deV&type=ws&host=fALcUnargO.E18061F38A.woRkERs.Dev&path=%2FDU-7-v-InqDKABjE%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.253.60:443
